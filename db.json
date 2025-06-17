@@ -1,0 +1,4052 @@
+{
+  "cart": [
+    {
+      "name": "Men Slim Fit Checked Button-Down Collar Shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231116/uuKP/655572dfddf77915198760a9/the_bear_house_blue_men_slim_fit_checked_button-down_collar_shirt.jpg",
+      "price": "₹1,118",
+      "originalPrice": "₹2,599",
+      "brand": "THE BEAR HOUSE",
+      "rating": 4,
+      "qty": 1,
+      "size": "M",
+      "id": 4
+    },
+    {
+      "name": "Colourblocked T-shirt",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19579182/2022/10/7/19904dfd-e12c-4a64-a5a9-848f2ff2733e1665139517555DAMENSCHMenGreenColourblockedT-shirt1.jpg",
+      "price": "Rs. 1199",
+      "brand": "DAMENSCH",
+      "rating": "4.3",
+      "qty": 1,
+      "size": "M",
+      "id": 6
+    }
+  ],
+  "men": [
+    {
+      "id": "1",
+      "url": "https://www.ajio.com/jankit-designer-men-printed-regular-fit-shirt-with-spread-collar/p/700132335_navy",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240627/WF8e/667cfa466f60443f31c118bc/jankit_designer_navy_blue_men_printed_regular_fit_shirt_with_spread_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "Jankit Designer",
+      "name": "Men Printed Regular Fit Shirt with Spread Collar",
+      "rating": 2.5,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   324",
+      "price": "₹400",
+      "originalPrice": "₹1,999",
+      "discount": "(80% off)"
+    },
+    {
+      "id": "2",
+      "url": "https://www.ajio.com/the-bear-house-men-slim-fit-checked-button-down-collar-shirt/p/466797453_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231116/uuKP/655572dfddf77915198760a9/the_bear_house_blue_men_slim_fit_checked_button-down_collar_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Slim Fit Checked Button-Down Collar Shirt",
+      "rating": 4,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   76",
+      "price": "₹1,118",
+      "originalPrice": "₹2,599",
+      "discount": "(57% off)"
+    },
+    {
+      "id": "3",
+      "url": "https://www.ajio.com/the-bear-house-striped-slim-fit-shirt-with-patch-pocket/p/465448449_green",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230624/cDYV/64968c2deebac147fcf6f943/the_bear_house_green_striped_slim_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Striped Slim Fit Shirt with Patch Pocket",
+      "rating": 3.8,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   129",
+      "price": "₹873",
+      "originalPrice": "₹2,495",
+      "discount": "(65% off)"
+    },
+    {
+      "id": "4",
+      "url": "https://www.ajio.com/campus-sutra-men-ribbed-regular-fit-shirt/p/467293008_brown",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240507/mdc0/663a557116fd2c6e6af0ef6f/campus_sutra_brown_men_ribbed_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "Campus Sutra",
+      "name": "Men Ribbed Regular Fit Shirt",
+      "rating": 4,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   1K",
+      "price": "₹741",
+      "originalPrice": "₹1,899",
+      "discount": "(61% off)",
+      "offerPrice": "593"
+    },
+    {
+      "id": "5",
+      "url": "https://www.ajio.com/campus-sutra-checked-shirt-with-patch-pocket/p/463775643_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240717/hKmD/6696cfb31d763220fac97f29/campus_sutra_blue_checked_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "Campus Sutra",
+      "name": "Checked Shirt with Patch Pocket",
+      "rating": 3.7,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   14.1K",
+      "price": "₹624",
+      "originalPrice": "₹1,599",
+      "discount": "(61% off)",
+      "offerPrice": "499"
+    },
+    {
+      "id": "6",
+      "url": "https://www.ajio.com/house-of-koala-printed-shirt-with-spread-collar/p/467149095_multi",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240308/aSQ4/65eb169116fd2c6e6a47284f/house_of_koala_multicoloured_printed_shirt_with_spread_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "House of Koala",
+      "name": "Printed Shirt with Spread Collar",
+      "rating": null,
+      "price": "₹991",
+      "originalPrice": "₹1,599",
+      "discount": "(38% off)",
+      "offerPrice": "849"
+    },
+    {
+      "id": "11",
+      "url": "https://www.ajio.com/u-s-polo-assn-cut-away-collar-patched-pocket-shirt/p/469368031_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221116/sZuu/6374d9afaeb269659c939fa3/u.s._polo_assn._white_cut-away_collar_patched-pocket_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "U.S. Polo Assn.",
+      "name": "Cut-Away Collar Patched-Pocket Shirt",
+      "rating": 3.8,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   2.2K",
+      "price": "₹1,150",
+      "originalPrice": "₹2,299",
+      "discount": "(50% off)",
+      "offerPrice": "989"
+    },
+    {
+      "id": "12",
+      "url": "https://www.ajio.com/woxen-spread-collared-checked-shirt/p/466434087_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230808/9x9d/64d2474aeebac147fcb45b0a/woxen_white_spread_collared_checked_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "Woxen",
+      "name": "Spread Collared Checked Shirt",
+      "rating": 3.2,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   7.2K",
+      "price": "₹368",
+      "originalPrice": "₹1,599",
+      "discount": "(77% off)"
+    },
+    {
+      "id": "13",
+      "url": "https://www.ajio.com/the-bear-house-solid-slim-fit-shirt/p/467159479_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240312/oK9H/65f0827e16fd2c6e6a536815/the_bear_house_white_solid_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Solid Slim Fit Shirt",
+      "rating": 4.1,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   301",
+      "price": "₹780",
+      "originalPrice": "₹2,599",
+      "discount": "(70% off)"
+    },
+    {
+      "id": "14",
+      "url": "https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/464176063_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230621/uk9c/6492779142f9e729d7664b38/the_bear_house_blue_men_checked_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Checked Slim Fit Shirt",
+      "rating": 3.6,
+      "ratingImage": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "ratingCount": "|   1.9K",
+      "price": "₹973",
+      "originalPrice": "₹2,495",
+      "discount": "(61% off)"
+    },
+    {
+      "id": "15",
+      "url": "https://www.ajio.com/armani-exchange-all-over-logo-print-slim-fit-cotton-shirt/p/410475307_8276",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240522/f52j/664df7bd05ac7d77bb703b1f/armani_exchange_black_all-over_logo_print_slim_fit_cotton_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "Armani Exchange",
+      "name": "All Over Logo Print Slim Fit Cotton Shirt",
+      "rating": null,
+      "price": "₹2,789",
+      "originalPrice": "₹5,999",
+      "discount": "(53% off)",
+      "offerPrice": "2,759"
+    },
+    {
+      "id": "16",
+      "url": "https://www.ajio.com/gap-men-camouflage-logo-print-hoodie-with-kangaroo-pockets/p/442529863_skyblue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240709/xmVb/668ce9551d763220fa302447/gap_sky_blue_men_camouflage_logo_print_hoodie_with_kangaroo_pockets.jpg",
+      "brand": "GAP",
+      "name": "Men Camouflage Logo Print Hoodie with Kangaroo Pockets",
+      "rating": "4.8",
+      "price": "₹2,499",
+      "offerPrice": "₹1,874",
+      "originalPrice": "",
+      "discount": ""
+    },
+    {
+      "id": "17",
+      "url": "https://www.ajio.com/ketch-hoodie-with-kangaroo-pocket/p/469288421_black",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221206/m89y/638ee276f997ddfdbdbe2b5d/ketch_black_hoodie_with_kangaroo_pocket.jpg",
+      "brand": "Ketch",
+      "name": "Hoodie with Kangaroo Pocket",
+      "rating": "3.6",
+      "price": "₹567",
+      "offerPrice": "₹496",
+      "originalPrice": "₹2,099",
+      "discount": "(73% off)"
+    },
+    {
+      "id": "18",
+      "url": "https://www.ajio.com/gap-men-regular-fit-hoodie-with-logo-applique/p/442306705_purple",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240314/QSCI/65f30ed305ac7d77bbb5d651/gap_purple_men_regular_fit_hoodie_with_logo_applique.jpg",
+      "brand": "GAP",
+      "name": "Men Regular Fit Hoodie with Logo Applique",
+      "rating": "",
+      "price": "₹1,500",
+      "offerPrice": "₹1,332",
+      "originalPrice": "₹2,999",
+      "discount": "(50% off)"
+    },
+    {
+      "id": "20",
+      "url": "https://www.ajio.com/john-players-jeans-slim-fit-sweatshirt-with-insert-pockets/p/443013324_black",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230831/055X/64f0b560ddf77915198e23f2/john_players_jeans_black_slim_fit_sweatshirt_with_insert_pockets.jpg",
+      "brand": "JOHN PLAYERS JEANS",
+      "name": "Slim Fit Sweatshirt with Insert Pockets",
+      "rating": "3.9",
+      "price": "₹690",
+      "offerPrice": "₹575",
+      "originalPrice": "₹2,299",
+      "discount": "(70% off)"
+    },
+    {
+      "id": "21",
+      "url": "https://www.ajio.com/gap-solid-embroidered-logo-sweatshirt-with-kangaroo-pockets/p/442333271_darkgrey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240510/K8LG/663e1caf16fd2c6e6afb0eae/gap_dark_grey_solid_embroidered_logo_sweatshirt_with_kangaroo_pockets.jpg",
+      "brand": "GAP",
+      "name": "Solid Embroidered Logo Sweatshirt with Kangaroo Pockets",
+      "rating": "4",
+      "price": "₹1,575",
+      "offerPrice": "₹1,399",
+      "originalPrice": "₹3,499",
+      "discount": "(55% off)"
+    },
+    {
+      "id": "22",
+      "url": "https://www.ajio.com/bullmer-graphic-print-hoodie-sweatshirt/p/464863102_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230623/yBbp/6495397dd55b7d0c63b5edec/bullmer_blue_graphic_print_hoodie_sweatshirt.jpg",
+      "brand": "Bullmer",
+      "name": "Graphic Print Hoodie Sweatshirt",
+      "rating": "3.2",
+      "price": "₹388",
+      "offerPrice": "",
+      "originalPrice": "₹1,999",
+      "discount": "(81% off)"
+    },
+    {
+      "id": "23",
+      "url": "https://www.ajio.com/glito-men-loose-fit-cartoon-print-hooded-sweatshirt/p/466822694_black",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231124/t8Sk/6560a64bafa4cf41f59d0361/glito_black_men_loose_fit_cartoon_print_hooded_sweatshirt.jpg",
+      "brand": "GLITO",
+      "name": "Men Loose Fit Cartoon Print Hooded Sweatshirt",
+      "rating": "2.9",
+      "price": "₹612",
+      "offerPrice": "₹442",
+      "originalPrice": "₹1,699",
+      "discount": "(64% off)"
+    },
+    {
+      "id": "24",
+      "url": "https://www.ajio.com/eyebogler-men-colourblock-regular-fit-sweatshirt/p/466920480_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231227/YRTn/658b2f18afa4cf41f5ecd20a/eyebogler_blue_%26_white_men_colourblock_regular_fit_sweatshirt.jpg",
+      "brand": "EYEBOGLER",
+      "name": "Men Colourblock Regular Fit Sweatshirt",
+      "rating": "2.5",
+      "price": "₹325",
+      "offerPrice": "",
+      "originalPrice": "₹1,299",
+      "discount": "(75% off)"
+    },
+    {
+      "id": "25",
+      "url": "https://www.ajio.com/gap-men-cotton-regular-fit-hoodie/p/442306587_red",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240202/Hada/65bd032216fd2c6e6ad41b73/gap_red_men_cotton_regular_fit_hoodie.jpg",
+      "brand": "GAP",
+      "name": "Men Cotton Regular Fit Hoodie",
+      "rating": "3",
+      "price": "₹900",
+      "offerPrice": "₹799",
+      "originalPrice": "₹1,999",
+      "discount": "(55% off)"
+    },
+    {
+      "id": "26",
+      "url": "https://www.ajio.com/john-players-jeans-printed-slim-fit-sweatshirt/p/443010718_olive",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230831/zb9b/64f0aa97afa4cf41f59b24cd/john_players_jeans_olive_green_printed_slim_fit_sweatshirt.jpg",
+      "brand": "JOHN PLAYERS JEANS",
+      "name": "Printed Slim Fit Sweatshirt",
+      "rating": "4",
+      "price": "₹450",
+      "offerPrice": "₹375",
+      "originalPrice": "₹1,499",
+      "discount": "(70% off)"
+    },
+    {
+      "id": "27",
+      "url": "https://www.ajio.com/armani-exchange-crew-neck-sweatshirt-with-icon-logo/p/410368879_1200",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230307/He5v/640751f1f997dde6f4e67867/armani_exchange_black_crew-neck_sweatshirt_with_icon_logo.jpg",
+      "brand": "ARMANI EXCHANGE",
+      "name": "Crew-Neck Sweatshirt with Icon Logo",
+      "rating": "4.4",
+      "price": "₹11,999",
+      "offerPrice": "₹10,999",
+      "originalPrice": "",
+      "discount": ""
+    },
+    {
+      "id": "28",
+      "url": "https://www.ajio.com/superdry-vintage-athletic-henley-sweatshirt/p/410408979_98t",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240118/LQ4p/65a941458cdf1e0df5bfc4ac/superdry_navy_blue_vintage_athletic_henley_sweatshirt.jpg",
+      "brand": "SUPERDRY",
+      "name": "Vintage Athletic Henley Sweatshirt",
+      "rating": "3.6",
+      "price": "₹3,849",
+      "offerPrice": "₹3,150",
+      "originalPrice": "₹6,999",
+      "discount": "(45% off)"
+    },
+    {
+      "id": "29",
+      "url": "https://www.ajio.com/adro-men-typographic-print-regular-fit-hoodie/p/466724724_seagreen",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240214/Zxrf/65ccabbe16fd2c6e6af7bf1f/-473Wx593H-442306637-blue-MODEL.jpg",
+      "brand": "ADRO",
+      "name": "Men Typographic Print Regular Fit Hoodie",
+      "rating": "3.7",
+      "price": "₹670",
+      "offerPrice": "₹555",
+      "originalPrice": "₹1,799",
+      "discount": "(69% off)"
+    }
+  ],
+  "men-shirts": [
+    {
+      "id": "30",
+      "link": "https://www.ajio.com/jankit-designer-men-printed-regular-fit-shirt-with-spread-collar/p/700132335_navy",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240627/WF8e/667cfa466f60443f31c118bc/jankit_designer_navy_blue_men_printed_regular_fit_shirt_with_spread_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "Jankit Designer",
+      "name": "Men Printed Regular Fit Shirt with Spread Collar",
+      "rating": "2.6",
+      "price": "₹400",
+      "originalPrice": "₹1,999",
+      "discount": "(80% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "31",
+      "link": "https://www.ajio.com/netplay-men-checked-regular-fit-shirt-with-patch-pocket/p/443041722_olive",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240524/cuTG/6650672116fd2c6e6a216811/netplay_olive_green_men_checked_regular_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "NETPLAY",
+      "name": "Men Checked Regular Fit Shirt with Patch Pocket",
+      "rating": "",
+      "price": "₹400",
+      "originalPrice": "₹999",
+      "discount": "(60% off)",
+      "offerPrice": "₹300"
+    },
+    {
+      "id": "32",
+      "link": "https://www.ajio.com/vastrado-men-striped-slim-fit-shirt-with-patch-pocket/p/700225774_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240724/gLDA/66a103236f60443f31a562dc/vastrado_white_men_striped_slim_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "Vastrado",
+      "name": "Men Striped Slim Fit Shirt with Patch Pocket",
+      "rating": "",
+      "price": "₹546",
+      "originalPrice": "₹1,399",
+      "discount": "(61% off)",
+      "offerPrice": "₹378"
+    },
+    {
+      "id": "33",
+      "link": "https://www.ajio.com/vastrado-men-slim-fit-shirt-with-flap-pockets/p/700226103_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240724/3hT3/66a12bb71d763220fa1d7b48/vastrado_grey_men_slim_fit_shirt_with_flap_pockets.jpg",
+      "quickView": "Quick View",
+      "brand": "Vastrado",
+      "name": "Men Slim Fit Shirt with Flap Pockets",
+      "rating": "",
+      "price": "₹682",
+      "originalPrice": "₹1,749",
+      "discount": "(61% off)",
+      "offerPrice": "₹472"
+    },
+    {
+      "id": "34",
+      "link": "https://www.ajio.com/netplay-men-printed-regular-fit-shirt/p/443042709_navy",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240314/0QFx/65f31ff316fd2c6e6a5d37eb/netplay_navy_blue_men_printed_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "NETPLAY",
+      "name": "Men Printed Regular Fit Shirt",
+      "rating": "",
+      "price": "₹400",
+      "originalPrice": "₹999",
+      "discount": "(60% off)",
+      "offerPrice": "₹300"
+    },
+    {
+      "id": "35",
+      "link": "https://www.ajio.com/jainish-checked-shirt-with-spread-collar/p/464477084_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230623/OKFp/6494cf0e42f9e729d77ecfa6/jainish_blue_%26_white_checked_shirt_with_spread_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "JAINISH",
+      "name": "Checked Shirt with Spread Collar",
+      "rating": "3.3",
+      "price": "₹450",
+      "originalPrice": "₹1,499",
+      "discount": "(70% off)",
+      "offerPrice": "₹378"
+    },
+    {
+      "id": "36",
+      "link": "https://www.ajio.com/the-bear-house-men-slim-fit-checked-button-down-collar-shirt/p/466797453_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231116/uuKP/655572dfddf77915198760a9/the_bear_house_blue_men_slim_fit_checked_button-down_collar_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Slim Fit Checked Button-Down Collar Shirt",
+      "rating": "4",
+      "price": "₹1,118",
+      "originalPrice": "₹2,599",
+      "discount": "(57% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "37",
+      "link": "https://www.ajio.com/campus-sutra-checked-shirt-with-patch-pocket/p/463775643_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240717/hKmD/6696cfb31d763220fac97f29/campus_sutra_blue_checked_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "Campus Sutra",
+      "name": "Checked Shirt with Patch Pocket",
+      "rating": "3.7",
+      "price": "₹624",
+      "originalPrice": "₹1,599",
+      "discount": "(61% off)",
+      "offerPrice": "₹512"
+    },
+    {
+      "id": "38",
+      "link": "https://www.ajio.com/campus-sutra-men-ribbed-regular-fit-shirt/p/467293008_brown",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240507/mdc0/663a557116fd2c6e6af0ef6f/campus_sutra_brown_men_ribbed_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "Campus Sutra",
+      "name": "Men Ribbed Regular Fit Shirt",
+      "rating": "4",
+      "price": "₹741",
+      "originalPrice": "₹1,899",
+      "discount": "(61% off)",
+      "offerPrice": "₹608"
+    },
+    {
+      "id": "39",
+      "link": "https://www.ajio.com/netplay-men-checked-regular-fit-shirt-with-patch-pocket/p/443041709_olive",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240419/6xrI/66228d9d05ac7d77bb198dae/netplay_olive_green_men_checked_regular_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "NETPLAY",
+      "name": "Men Checked Regular Fit Shirt with Patch Pocket",
+      "rating": "",
+      "price": "₹400",
+      "originalPrice": "₹999",
+      "discount": "(60% off)",
+      "offerPrice": "₹300"
+    },
+    {
+      "id": "40",
+      "link": "https://www.ajio.com/snitch-men-checked-slim-fit-shirt/p/700217440_turquoise",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240722/ksTs/669e8c7b1d763220fa100942/snitch_turquoise_men_checked_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "SNITCH",
+      "name": "Men Checked Slim Fit Shirt",
+      "rating": "",
+      "price": "₹1,079",
+      "originalPrice": "₹2,398",
+      "discount": "(55% off)",
+      "offerPrice": "₹927"
+    },
+    {
+      "id": "41",
+      "link": "https://www.ajio.com/the-bear-house-men-slim-fit-checked-shirt/p/461725396_maroon",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230602/v4Ms/64793ff942f9e729d70e042f/the_bear_house_maroon_men_slim_fit_checked_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Slim Fit Checked Shirt",
+      "rating": "3.9",
+      "ratingCount": "10K",
+      "price": "₹973",
+      "originalPrice": "₹2,495",
+      "discount": "(61% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "42",
+      "link": "https://www.ajio.com/poipet-men-striped-regular-fit-shirt/p/466810276_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231125/CEcZ/65614bc1ddf77915199b3e62/poipet_blue_%26_white_men_striped_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "POIPET",
+      "name": "Men Striped Regular Fit Shirt",
+      "rating": "2.3",
+      "ratingCount": "1.4K",
+      "price": "₹400",
+      "originalPrice": "₹1,999",
+      "discount": "(80% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "43",
+      "link": "https://www.ajio.com/u-s-polo-assn-spread-collar-patch-pocket-shirt/p/469368041_green",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221128/gP0W/6384d6f0f997ddfdbda34de3/u.s._polo_assn._green_spread-collar_patch-pocket_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "U.S. Polo Assn.",
+      "name": "Spread-Collar Patch-Pocket Shirt",
+      "rating": "3.8",
+      "ratingCount": "246",
+      "price": "₹1,449",
+      "originalPrice": "₹2,499",
+      "discount": "(42% off)",
+      "offerPrice": "₹1,231"
+    },
+    {
+      "id": "44",
+      "link": "https://www.ajio.com/mischief-monkey-spread-collar-cotton-shirt/p/466113483_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240109/4ROW/659d45b254c30e62769f3a82/mischief_monkey_white_spread-collar_cotton_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "MISCHIEF MONKEY",
+      "name": "Spread-Collar Cotton Shirt",
+      "rating": "3",
+      "ratingCount": "1.2K",
+      "price": "₹799",
+      "originalPrice": "₹4,999",
+      "discount": "(84% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "45",
+      "link": "https://www.ajio.com/thomas-scott-slim-fit-shirt-with-button-down-collar/p/465987663_green",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230629/E6hb/649cbea8a9b42d15c9190ed5/thomas_scott_green_slim_fit_shirt_with_button_down_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "THOMAS SCOTT",
+      "name": "Slim Fit Shirt with Button Down Collar",
+      "rating": "3.8",
+      "ratingCount": "755",
+      "price": "₹904",
+      "originalPrice": "₹2,659",
+      "discount": "(66% off)",
+      "offerPrice": "₹759"
+    },
+    {
+      "id": "46",
+      "link": "https://www.ajio.com/modamonarch-men-regular-fit-shirt-with-patch-pocket----/p/700014865_green",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240527/JgOf/6653a00705ac7d77bb7bb9fd/modamonarch_green_men_regular_fit_shirt_with_patch_pocket_______.jpg",
+      "quickView": "Quick View",
+      "brand": "Modamonarch",
+      "name": "Men Regular Fit Shirt with Patch Pocket",
+      "rating": "2.3",
+      "ratingCount": "141",
+      "price": "₹449",
+      "originalPrice": "₹1,799",
+      "discount": "(75% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "47",
+      "link": "https://www.ajio.com/wuxi-men-knitted-loose-fit-shirt-with-mandarin-collar/p/466817674_seagreen",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231121/C6c3/655cdbefafa4cf41f596bcc7/wuxi_sea_green_men_knitted_loose_fit_shirt_with_mandarin_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "WUXI",
+      "name": "Men Knitted Loose Fit Shirt with Mandarin Collar",
+      "rating": "3.3",
+      "ratingCount": "8K",
+      "price": "₹456",
+      "originalPrice": "₹2,399",
+      "discount": "(81% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "48",
+      "link": "https://www.ajio.com/the-indian-garage-co-striped-shirt-with-patch-pocket/p/469448042_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230215/YCGi/63ecf840f997dde6f4aa6fd9/the_indian_garage_co_white_striped_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "The Indian Garage Co",
+      "name": "Striped Shirt with Patch Pocket",
+      "rating": "3.7",
+      "ratingCount": "448",
+      "price": "₹630",
+      "originalPrice": "₹2,099",
+      "discount": "(70% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "49",
+      "link": "https://www.ajio.com/u-s-polo-assn-cut-away-collar-patched-pocket-shirt/p/469368031_green",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221116/a5gn/6374e1bcaeb269659c93ae30/u.s._polo_assn._dark_green_cut-away_collar_patched-pocket_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "U.S. Polo Assn.",
+      "name": "Cut-Away Collar Patched-Pocket Shirt",
+      "rating": "3.8",
+      "ratingCount": "2.2K",
+      "price": "₹1,333",
+      "originalPrice": "₹2,299",
+      "discount": "(42% off)",
+      "offerPrice": "₹1,132"
+    },
+    {
+      "id": "50",
+      "link": "https://www.ajio.com/wuxi-men-striped-loose-fit-shirt-with-patch-pocket/p/467347568_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240521/DWqg/664c79e716fd2c6e6a157e08/wuxi_white_men_striped_loose_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "WUXI",
+      "name": "Men Striped Loose Fit Shirt with Patch Pocket",
+      "rating": "3.1",
+      "ratingCount": "281",
+      "price": "₹456",
+      "originalPrice": "₹2,399",
+      "discount": "(81% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "51",
+      "link": "https://www.ajio.com/the-indian-garage-co-checked-shirt-with-patch-pocket/p/469327141_navy",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230728/VM9l/64c3d892a9b42d15c978fe5e/the_indian_garage_co_navy_blue_checked_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "The Indian Garage Co",
+      "name": "Checked Shirt with Patch Pocket",
+      "rating": "3.6",
+      "ratingCount": "968",
+      "price": "₹623",
+      "originalPrice": "₹2,149",
+      "discount": "(71% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "52",
+      "link": "https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/464176063_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230621/uk9c/6492779142f9e729d7664b38/the_bear_house_blue_men_checked_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Checked Slim Fit Shirt",
+      "rating": "3.6",
+      "ratingCount": "1.9K",
+      "price": "₹973",
+      "originalPrice": "₹2,495",
+      "discount": "(61% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "53",
+      "link": "https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/465007676_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230525/6XtC/646f2076d55b7d0c63eefa0a/the_bear_house_blue_%26_white_men_checked_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Checked Slim Fit Shirt",
+      "rating": "3.9",
+      "ratingCount": "433",
+      "price": "₹973",
+      "originalPrice": "₹2,495",
+      "discount": "(61% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "54",
+      "link": "https://www.ajio.com/wuxi-men-knitted-loose-fit-shirt-with-mandarin-collar/p/466817674_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231121/5RT6/655cde47ddf77915199314d4/wuxi_white_men_knitted_loose_fit_shirt_with_mandarin_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "WUXI",
+      "name": "Men Knitted Loose Fit Shirt with Mandarin Collar",
+      "rating": "3.3",
+      "ratingCount": "8K",
+      "price": "₹456",
+      "originalPrice": "₹2,399",
+      "discount": "(81% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "55",
+      "link": "https://www.ajio.com/spykar-men-regular-fit-shirt/p/469542007_mustardyellow",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240611/RA1q/666834a416fd2c6e6a8dbbc0/spykar_mustard_yellow_men_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "SPYKAR",
+      "name": "Men Regular Fit Shirt",
+      "rating": "3.5",
+      "ratingCount": "26",
+      "price": "₹1,592",
+      "originalPrice": "₹2,699",
+      "discount": "(41% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "56",
+      "link": "https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/464176063_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230621/uk9c/6492779142f9e729d7664b38/the_bear_house_blue_men_checked_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Checked Slim Fit Shirt",
+      "rating": "3.6",
+      "ratingCount": "1.9K",
+      "price": "₹973",
+      "originalPrice": "₹2,495",
+      "discount": "(61% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "57",
+      "link": "https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/465007676_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230525/6XtC/646f2076d55b7d0c63eefa0a/the_bear_house_blue_%26_white_men_checked_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "THE BEAR HOUSE",
+      "name": "Men Checked Slim Fit Shirt",
+      "rating": "3.9",
+      "ratingCount": "433",
+      "price": "₹973",
+      "originalPrice": "₹2,495",
+      "discount": "(61% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "58",
+      "link": "https://www.ajio.com/wuxi-men-knitted-loose-fit-shirt-with-mandarin-collar/p/466817674_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231121/5RT6/655cde47ddf77915199314d4/wuxi_white_men_knitted_loose_fit_shirt_with_mandarin_collar.jpg",
+      "quickView": "Quick View",
+      "brand": "WUXI",
+      "name": "Men Knitted Loose Fit Shirt with Mandarin Collar",
+      "rating": "3.3",
+      "ratingCount": "8K",
+      "price": "₹456",
+      "originalPrice": "₹2,399",
+      "discount": "(81% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "59",
+      "link": "https://www.ajio.com/spykar-men-regular-fit-shirt/p/469542007_mustardyellow",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240611/RA1q/666834a416fd2c6e6a8dbbc0/spykar_mustard_yellow_men_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "SPYKAR",
+      "name": "Men Regular Fit Shirt",
+      "rating": "3.5",
+      "ratingCount": "26",
+      "price": "₹1,592",
+      "originalPrice": "₹2,699",
+      "discount": "(41% off)",
+      "offerPrice": "₹1,352"
+    },
+    {
+      "id": "60",
+      "link": "https://www.ajio.com/wuxi-men-crinkled-loose-fit-shirt-with-patch-pocket/p/467347568_coffee",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240528/6TPw/6655090d05ac7d77bb80ef4f/wuxi_coffee_men_crinkled_loose_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "WUXI",
+      "name": "Men Crinkled Loose Fit Shirt with Patch Pocket",
+      "rating": "3.1",
+      "ratingCount": "281",
+      "price": "₹456",
+      "originalPrice": "₹2,399",
+      "discount": "(81% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "61",
+      "link": "https://www.ajio.com/banana-club-geometric-print-regular-fit-shirt/p/700123188_red",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240624/Otwy/66799d651d763220fa105ff0/banana_club_red_geometric_print_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "BANANA CLUB",
+      "name": "Geometric Print Regular Fit Shirt",
+      "rating": "3.7",
+      "ratingCount": "22",
+      "price": "₹869",
+      "originalPrice": "₹1,498",
+      "discount": "(42% off)",
+      "offerPrice": "₹704"
+    },
+    {
+      "id": "62",
+      "link": "https://www.ajio.com/linza-men-printed-slim-fit-shirt-with-full-sleeves/p/467162769_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240313/TO64/65f12ae816fd2c6e6a547d5c/linza_white_men_printed_slim_fit_shirt_with_full_sleeves.jpg",
+      "quickView": "Quick View",
+      "brand": "Linza",
+      "name": "Men Printed Slim Fit Shirt with Full Sleeves",
+      "rating": "2.7",
+      "ratingCount": "2.1K",
+      "price": "₹484",
+      "originalPrice": "₹2,199",
+      "discount": "(78% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "63",
+      "link": "https://www.ajio.com/deaim-men-striped-regular-fit-shirt/p/467160486_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240312/TLIF/65f0404216fd2c6e6a521ae3/-473Wx593H-467160486-blue-MODEL.png",
+      "quickView": "Quick View",
+      "brand": "Deaim",
+      "name": "Men Striped Regular Fit Shirt",
+      "rating": "2.6",
+      "ratingCount": "545",
+      "price": "₹499",
+      "originalPrice": "₹2,496",
+      "discount": "(80% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "64",
+      "link": "https://www.ajio.com/wuxi-men-crinkled-loose-fit-shirt-with-patch-pocket/p/467347568_seagreen",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240528/yb35/665508e516fd2c6e6a2dd08a/wuxi_sea_green_men_crinkled_loose_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "WUXI",
+      "name": "Men Crinkled Loose Fit Shirt with Patch Pocket",
+      "rating": "3.1",
+      "ratingCount": "281",
+      "price": "₹456",
+      "originalPrice": "₹2,399",
+      "discount": "(81% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "65",
+      "link": "https://www.ajio.com/ink-india-company-men-printed-regular-fit-shirt/p/466794381_multi",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231115/13Zu/6554f781afa4cf41f58564c6/ink_india_company_multicoloured_men_printed_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "INK INDIA COMPANY",
+      "name": "Men Printed Regular Fit Shirt",
+      "rating": "",
+      "ratingCount": "",
+      "price": "₹858",
+      "originalPrice": "₹2,199",
+      "discount": "(61% off)",
+      "offerPrice": "₹735"
+    },
+    {
+      "id": "66",
+      "link": "https://www.ajio.com/british-club-men-chevron-pattern-slim-fit-shirt/p/469635035_green",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240621/sRxw/66758cae6f60443f31705bdf/british_club_green_men_chevron_pattern_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "British Club",
+      "name": "Men Chevron Pattern Slim Fit Shirt",
+      "rating": "4.4",
+      "ratingCount": "5",
+      "price": "₹858",
+      "originalPrice": "₹1,995",
+      "discount": "(57% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "67",
+      "link": "https://www.ajio.com/thomas-scott-slim-fit-shirt-with-patch-pocket/p/466582412_white",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230915/J8J6/65045a7eafa4cf41f5e7b737/thomas_scott_white_slim_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "THOMAS SCOTT",
+      "name": "Slim Fit Shirt with Patch Pocket",
+      "rating": "3.7",
+      "ratingCount": "250",
+      "price": "₹599",
+      "originalPrice": "₹2,996",
+      "discount": "(80% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "68",
+      "link": "https://www.ajio.com/wuxi-men-crinkled-loose-fit-shirt-with-patch-pocket/p/467347568_wine",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240528/ddYh/665508f305ac7d77bb80eb05/wuxi_wine_men_crinkled_loose_fit_shirt_with_patch_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "WUXI",
+      "name": "Men Crinkled Loose Fit Shirt with Patch Pocket",
+      "rating": "3.1",
+      "ratingCount": "281",
+      "price": "₹456",
+      "originalPrice": "₹2,399",
+      "discount": "(81% off)",
+      "offerPrice": ""
+    },
+    {
+      "id": "69",
+      "link": "https://www.ajio.com/dennislingo-premium-attire-striped-slim-fit-shirt/p/462152986_green",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240206/Zze3/65c2121916fd2c6e6adec259/dennislingo_premium_attire_green_striped_slim_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "DENNISLINGO PREMIUM ATTIRE",
+      "name": "Striped Slim Fit Shirt",
+      "rating": "3.7",
+      "ratingCount": "18.5K",
+      "price": "₹650",
+      "originalPrice": "₹2,499",
+      "discount": "(74% off)",
+      "offerPrice": "₹568"
+    },
+    {
+      "id": "70",
+      "link": "https://www.ajio.com/netplay-men-printed-regular-fit-shirt/p/443035490_orange",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240509/lYhw/663c99f416fd2c6e6af609cf/netplay_orange_men_printed_regular_fit_shirt.jpg",
+      "quickView": "Quick View",
+      "brand": "NETPLAY",
+      "name": "Men Printed Regular Fit Shirt",
+      "rating": "",
+      "ratingCount": "",
+      "price": "₹400",
+      "originalPrice": "₹999",
+      "discount": "(60% off)",
+      "offerPrice": ""
+    }
+  ],
+  "men-pants": [
+    {
+      "id": "71",
+      "link": "https://www.ajio.com/netplay-men-regular-fit-flat-front-chinos/p/443049564_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240603/UIb5/665dd81905ac7d77bb98af0f/netplay_grey_men_regular_fit_flat-front_chinos.jpg",
+      "brand": "NETPLAY",
+      "name": "Men Regular Fit Flat-Front Chinos",
+      "rating": "3.7",
+      "price": "₹899"
+    },
+    {
+      "id": "72",
+      "link": "https://www.ajio.com/campus-sutra-men-relaxed-fit-pleated-trousers/p/467197134_beige",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240325/I36f/6600fc7105ac7d77bbd6a3b0/campus_sutra_beige_men_relaxed_fit_pleated_trousers.jpg",
+      "brand": "Campus Sutra",
+      "name": "Men Relaxed Fit Pleated Trousers",
+      "rating": "3.9",
+      "price": "₹780"
+    },
+    {
+      "id": "73",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-flat-front-cargo/p/467069481_khaki",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240213/IPZc/65cb9cf016fd2c6e6af5850f/vooter_khaki_men_relaxed_fit_flat-front_cargo.jpg",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Flat-Front Cargo",
+      "rating": "3.2",
+      "price": "₹750",
+      "offerPrice": "₹625",
+      "originalPrice": "₹2,499",
+      "discount": "(70% off)"
+    },
+    {
+      "id": "74",
+      "link": "https://www.ajio.com/netplay-men-regular-fit-flat-front-chinos/p/443049564_charcoal",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240613/oToA/666cf2041d763220fab946f8/netplay_charcoal_black_men_regular_fit_flat-front_chinos.jpg",
+      "brand": "NETPLAY",
+      "name": "Men Regular Fit Flat-Front Chinos",
+      "rating": "3.7",
+      "price": "₹899",
+      "offerPrice": "₹809",
+      "discount": ""
+    },
+    {
+      "id": "75",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-cargo-pants/p/467076219_greymelange",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240215/Xsjl/65cd136516fd2c6e6af9cbc8/vooter_grey_melange_men_relaxed_fit_cargo_pants.jpg",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Cargo Pants",
+      "rating": "3.3",
+      "price": "₹825",
+      "offerPrice": "₹625",
+      "originalPrice": "₹2,499",
+      "discount": "(67% off)"
+    },
+    {
+      "id": "76",
+      "link": "https://www.ajio.com/house-of-koala-flat-front-trousers-with-insert-pocket/p/467132417_navy",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240303/RHHm/65e47dbf16fd2c6e6a3715f5/house_of_koala_navy_blue_flat-front_trousers_with_insert_pocket.jpg",
+      "brand": "House of Koala",
+      "name": "Flat-Front Trousers with Insert Pocket",
+      "price": "₹1,799",
+      "offerPrice": "₹1,541",
+      "originalPrice": "₹2,999",
+      "discount": "(40% off)"
+    },
+    {
+      "id": "77",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-cargo-pants/p/467076219_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240215/T8Zs/65cd13a405ac7d77bb587a48/vooter_grey_men_relaxed_fit_cargo_pants.jpg",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Cargo Pants",
+      "rating": "3.3",
+      "price": "₹825",
+      "offerPrice": "₹625",
+      "originalPrice": "₹2,499",
+      "discount": "(67% off)"
+    },
+    {
+      "id": "78",
+      "link": "https://www.ajio.com/ketch-panelled-cargo-pants-with-insert-pockets/p/469082940_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220311/6ZYP/622a5d4cf997dd03e20c9e12/ketch_grey_panelled_cargo_pants_with_insert_pockets.jpg",
+      "brand": "Ketch",
+      "name": "Panelled Cargo Pants with Insert Pockets",
+      "rating": "3.5",
+      "price": "₹855",
+      "offerPrice": "₹675",
+      "originalPrice": "₹2,249",
+      "discount": "(62% off)"
+    },
+    {
+      "id": "79",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-flat-front-cargo/p/467069481_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240213/kUyn/65cb9a4116fd2c6e6af52cc6/vooter_blue_men_relaxed_fit_flat-front_cargo.jpg",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Flat-Front Cargo",
+      "rating": "3.2",
+      "price": "₹750",
+      "offerPrice": "₹625",
+      "originalPrice": "₹2,499",
+      "discount": "(70% off)"
+    },
+    {
+      "id": "80",
+      "link": "https://www.ajio.com/solemio-men-slim-fit-flat-front-trousers/p/466759075_black",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231031/OPkv/65402d9eafa4cf41f569b8e9/haul_chic_black_men_slim_fit_flat-front_trousers.jpg",
+      "brand": "Haul Chic",
+      "name": "Men Slim Fit Flat-Front Trousers",
+      "rating": "3",
+      "price": "₹496",
+      "offerPrice": "₹425",
+      "originalPrice": "₹1,599",
+      "discount": "(69% off)"
+    },
+    {
+      "id": "81",
+      "link": "https://www.ajio.com/netplay-men-flat-front-cropped-fit-chinos/p/443050946_jetblack",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240719/8c7W/669a5e991d763220fa085d52/netplay_jet_black_men_flat-front_cropped_fit_chinos.jpg",
+      "brand": "NETPLAY",
+      "name": "Men Flat-Front Cropped Fit Chinos",
+      "price": "₹999",
+      "offerPrice": "₹899",
+      "discount": ""
+    },
+    {
+      "id": "82",
+      "link": "https://www.ajio.com/house-of-koala-men-relaxed-fit-cargo-pants/p/700005720_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240523/2t1A/664f6f4105ac7d77bb741d5c/house_of_koala_grey_men_relaxed_fit_cargo_pants.jpg",
+      "brand": "House of Koala",
+      "name": "Men Relaxed Fit Cargo Pants",
+      "rating": "2.5",
+      "price": "₹1,949",
+      "offerPrice": "₹1,670",
+      "originalPrice": "₹2,599",
+      "discount": "(25% off)"
+    },
+    {
+      "id": "83",
+      "link": "https://www.ajio.com/mr-button-pleated-slim-fit-trousers/p/466320481_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230630/kh4u/649e0609eebac147fc423d5f/mr.button_grey_pleated_slim_fit_trousers.jpg",
+      "brand": "MR.BUTTON",
+      "name": "Pleated Slim Fit Trousers",
+      "rating": "3.2",
+      "price": "₹1,084",
+      "offerPrice": "₹726",
+      "originalPrice": "₹1,999",
+      "discount": "(64% off)"
+    },
+    {
+      "id": "84",
+      "link": "https://www.ajio.com/netplay-men-regular-fit-flat-front-chinos/p/443049564_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240603/UIb5/665dd81905ac7d77bb98af0f/netplay_grey_men_regular_fit_flat-front_chinos.jpg",
+      "quickView": "Quick View",
+      "brand": "NETPLAY",
+      "name": "Men Regular Fit Flat-Front Chinos",
+      "rating": 3.7,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 53,
+      "originalPrice": "₹899",
+      "offerPrice": "₹809",
+      "discount": ""
+    },
+    {
+      "id": "85",
+      "link": "https://www.ajio.com/campus-sutra-men-relaxed-fit-pleated-trousers/p/467197134_beige",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240325/I36f/6600fc7105ac7d77bbd6a3b0/campus_sutra_beige_men_relaxed_fit_pleated_trousers.jpg",
+      "quickView": "Quick View",
+      "brand": "Campus Sutra",
+      "name": "Men Relaxed Fit Pleated Trousers",
+      "rating": 3.9,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 27,
+      "originalPrice": "₹780",
+      "offerPrice": "₹640",
+      "discount": "₹1,999 (61% off)"
+    },
+    {
+      "id": "86",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-flat-front-cargo/p/467069481_khaki",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240213/IPZc/65cb9cf016fd2c6e6af5850f/vooter_khaki_men_relaxed_fit_flat-front_cargo.jpg",
+      "quickView": "Quick View",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Flat-Front Cargo",
+      "rating": 3.2,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 1500,
+      "originalPrice": "₹750",
+      "offerPrice": "₹625",
+      "discount": "₹2,499 (70% off)"
+    },
+    {
+      "id": "87",
+      "link": "https://www.ajio.com/netplay-men-regular-fit-flat-front-chinos/p/443049564_charcoal",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240613/oToA/666cf2041d763220fab946f8/netplay_charcoal_black_men_regular_fit_flat-front_chinos.jpg",
+      "quickView": "Quick View",
+      "brand": "NETPLAY",
+      "name": "Men Regular Fit Flat-Front Chinos",
+      "rating": 3.7,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 53,
+      "originalPrice": "₹899",
+      "offerPrice": "₹809",
+      "discount": ""
+    },
+    {
+      "id": "88",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-cargo-pants/p/467076219_greymelange",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240215/Xsjl/65cd136516fd2c6e6af9cbc8/vooter_grey_melange_men_relaxed_fit_cargo_pants.jpg",
+      "quickView": "Quick View",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Cargo Pants",
+      "rating": 3.3,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 1000,
+      "originalPrice": "₹825",
+      "offerPrice": "₹625",
+      "discount": "₹2,499 (67% off)"
+    },
+    {
+      "id": "89",
+      "link": "https://www.ajio.com/house-of-koala-flat-front-trousers-with-insert-pocket/p/467132417_navy",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240303/RHHm/65e47dbf16fd2c6e6a3715f5/house_of_koala_navy_blue_flat-front_trousers_with_insert_pocket.jpg",
+      "quickView": "Quick View",
+      "brand": "House of Koala",
+      "name": "Flat-Front Trousers with Insert Pocket",
+      "rating": "",
+      "ratingIcon": "",
+      "reviews": "",
+      "originalPrice": "₹1,799",
+      "offerPrice": "₹1,541",
+      "discount": "₹2,999 (40% off)"
+    },
+    {
+      "id": "90",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-cargo-pants/p/467076219_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240215/T8Zs/65cd13a405ac7d77bb587a48/vooter_grey_men_relaxed_fit_cargo_pants.jpg",
+      "quickView": "Quick View",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Cargo Pants",
+      "rating": 3.3,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 1000,
+      "originalPrice": "₹825",
+      "offerPrice": "₹625",
+      "discount": "₹2,499 (67% off)"
+    },
+    {
+      "id": "91",
+      "link": "https://www.ajio.com/ketch-panelled-cargo-pants-with-insert-pockets/p/469082940_grey",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220311/6ZYP/622a5d4cf997dd03e20c9e12/ketch_grey_panelled_cargo_pants_with_insert_pockets.jpg",
+      "quickView": "Quick View",
+      "brand": "Ketch",
+      "name": "Panelled Cargo Pants with Insert Pockets",
+      "rating": 3.5,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 29,
+      "originalPrice": "₹855",
+      "offerPrice": "₹675",
+      "discount": "₹2,249 (62% off)"
+    },
+    {
+      "id": "92",
+      "link": "https://www.ajio.com/vooter-men-relaxed-fit-flat-front-cargo/p/467069481_blue",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240213/kUyn/65cb9a4116fd2c6e6af52cc6/vooter_blue_men_relaxed_fit_flat-front_cargo.jpg",
+      "quickView": "Quick View",
+      "brand": "Vooter",
+      "name": "Men Relaxed Fit Flat-Front Cargo",
+      "rating": 3.2,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 1500,
+      "originalPrice": "₹750",
+      "offerPrice": "₹625",
+      "discount": "₹2,499 (70% off)"
+    },
+    {
+      "id": "93",
+      "link": "https://www.ajio.com/haul-chic-men-slim-fit-flat-front-trousers/p/466759075_black",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231031/OPkv/65402d9eafa4cf41f569b8e9/haul_chic_black_men_slim_fit_flat-front_trousers.jpg",
+      "quickView": "Quick View",
+      "brand": "Haul Chic",
+      "name": "Men Slim Fit Flat-Front Trousers",
+      "rating": 3,
+      "ratingIcon": "https://assets.ajio.com/static/img/white-star-display.svg",
+      "reviews": 331,
+      "originalPrice": "₹496",
+      "offerPrice": "₹425",
+      "discount": "₹1,599 (69% off)"
+    }
+  ],
+  "men-tshirt": [
+    {
+      "id": "94",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30227146/2024/7/16/5d5393ab-77d2-46a1-8bf6-05876001acda1721130424907RARERABBITMenV-NeckPocketsT-shirt1.jpg",
+      "brand": "RARE RABBIT",
+      "name": "Men Ringer-2 Collared Polo",
+      "rating": "4.3",
+      "price": "N/A"
+    },
+    {
+      "id": "95",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30227142/2024/7/16/4cc080ba-83f1-4e82-afb8-099a96f507701721130413629RARERABBITMenDrop-ShoulderSleevesPocketsBoxyT-shirt1.jpg",
+      "brand": "RARE RABBIT",
+      "name": "Men Ammon Crew Neck T-Shirt",
+      "rating": "4.3",
+      "price": "N/A"
+    },
+    {
+      "id": "96",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29589930/2024/6/4/8b36f7fc-5ba4-4f48-9b1f-ce26a0e1343d1717479601598-Lux-Cozi-Pack-Of-3-Printed-Combed-Cotton-Lounge-T-Shirts-273-1.jpg",
+      "brand": "Lux Cozi",
+      "name": "3-Pcs Printed Lounge T-Shirts",
+      "rating": "4.3",
+      "price": "Rs. 655"
+    },
+    {
+      "id": "97",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25060270/2023/9/27/a52b0b24-1eb7-4e54-973c-08cabf8096391695815253644-Roadster-Men-Tshirts-5751695815253257-1.jpg",
+      "brand": "Roadster",
+      "name": "Men Polo Collar Cotton T-shirt",
+      "rating": "4.0",
+      "price": "Rs. 609"
+    },
+    {
+      "id": "98",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19579182/2022/10/7/19904dfd-e12c-4a64-a5a9-848f2ff2733e1665139517555DAMENSCHMenGreenColourblockedT-shirt1.jpg",
+      "brand": "DAMENSCH",
+      "name": "Colourblocked T-shirt",
+      "rating": "4.3",
+      "price": "Rs. 1199"
+    },
+    {
+      "id": "99",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27726078/2024/4/5/d5e7255b-fa77-431b-a7b7-778fc4cbcf8c1712302465748HMMenPrintedT-Shirt1.jpg",
+      "brand": "H&M",
+      "name": "Regular Fit Printed T-shirt",
+      "rating": "4.2",
+      "price": "N/A"
+    },
+    {
+      "id": "100",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25899798/2023/11/16/2324653f-fae2-455f-99b9-85415660e2d81700119381390AeroArmourUnisexOliveGreenT-shirt1.jpg",
+      "brand": "Aero Armour",
+      "name": "Unisex Pure Cotton T-shirt",
+      "rating": "4.2",
+      "price": "Rs. 799"
+    },
+    {
+      "id": "101",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22573376/2023/3/30/30d0ceac-2021-46a4-b679-03a3975cc27c1680166900422DaMENSCHMensConstantTonalRibbedCrewNeckPiqueT-Shirt5.jpg",
+      "brand": "DAMENSCH",
+      "name": "Pique Tonal Ribbed T-Shirt",
+      "rating": "4.3",
+      "price": "Rs. 1052"
+    },
+    {
+      "id": "102",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30024981/2024/6/25/8627df02-41d6-4671-af21-3bcd06201a961719264636506ForceNXTMenAntiOdourT-shirt1.jpg",
+      "brand": "Force NXT",
+      "name": "Pack Of 2 Solid T-shirt",
+      "rating": "4.2",
+      "price": "Rs. 359"
+    },
+    {
+      "id": "103",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11468732/2020/3/24/bece2abc-3045-41a5-a4e2-8caaa2354c331585042911269-HM-Men-Black-Solid-Cotton-T-shirt-Regular-Fit-51515850429100-1.jpg",
+      "brand": "H&M",
+      "name": "Men Cotton Pure Cotton T-shirt Regular Fit",
+      "rating": "4.2",
+      "price": "N/A"
+    },
+    {
+      "id": "104",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30227148/2024/7/16/cb25d463-15f9-4d99-9477-34e162fceb241721130420994RARERABBITMenBikerExtendedSleevesRawEdgeT-shirt1.jpg",
+      "brand": "RARE RABBIT",
+      "name": "Men Volvo Crew Neck T-Shirt",
+      "rating": "4.2",
+      "price": "N/A"
+    },
+    {
+      "id": "105",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11269068/2020/1/31/87f9d106-87c5-49d2-9683-8f0179dc3bbd1580443700024-Moda-Rapido-Men-Tshirts-9671580443698489-1.jpg",
+      "brand": "Moda Rapido",
+      "name": "Printed Round Neck Pure Cotton T-shirt",
+      "rating": "4.2",
+      "price": "Rs. 404"
+    },
+    {
+      "id": "106",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24357700/2023/8/5/07a5b0c0-58d1-4939-aeb5-5b8bd3cf39961691231422609CrazymonkUnisexLavenderPrintedPocketsT-shirt1.jpg",
+      "brand": "Crazymonk",
+      "name": "Printed Cotton T-shirt",
+      "rating": "4.3",
+      "price": "Rs. 704"
+    },
+    {
+      "id": "107",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22998942/2023/5/23/144f860e-b650-4206-ac8d-c50a46b646301684818664292-WROGN-Men-Tshirts-4411684818663891-1.jpg",
+      "brand": "WROGN",
+      "name": "Pure Cotton Slim Fit T-shirt",
+      "rating": "3.8",
+      "price": "Rs. 499"
+    },
+    {
+      "id": "108",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29969145/2024/6/14/4288bead-9025-405a-bd54-49f9098b95481718379489660MODECRUUnisexPrintedAppliqueT-shirt1.jpg",
+      "brand": "MOD ECRU",
+      "name": "Unisex Printed Applique T-shirt",
+      "rating": "4.2",
+      "price": "Rs. 749"
+    },
+    {
+      "id": "109",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30227146/2024/7/16/5d5393ab-77d2-46a1-8bf6-05876001acda1721130424907RARERABBITMenV-NeckPocketsT-shirt1.jpg",
+      "brand": "RARE RABBIT",
+      "name": "Men Ringer-2 Collared Polo",
+      "price": "Rs. 615",
+      "rating": "4.1"
+    },
+    {
+      "id": "110",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30227142/2024/7/16/4cc080ba-83f1-4e82-afb8-099a96f507701721130413629RARERABBITMenDrop-ShoulderSleevesPocketsBoxyT-shirt1.jpg",
+      "brand": "RARE RABBIT",
+      "name": "Men Ammon Crew Neck T-Shirt",
+      "price": "Rs. 499",
+      "rating": "4.3"
+    },
+    {
+      "id": "111",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29589930/2024/6/4/8b36f7fc-5ba4-4f48-9b1f-ce26a0e1343d1717479601598-Lux-Cozi-Pack-Of-3-Printed-Combed-Cotton-Lounge-T-Shirts-273-1.jpg",
+      "brand": "Lux Cozi",
+      "name": "3-Pcs Printed Lounge T-Shirts",
+      "price": "Rs. 655",
+      "rating": "4.2"
+    },
+    {
+      "id": "112",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25060270/2023/9/27/a52b0b24-1eb7-4e54-973c-08cabf8096391695815253644-Roadster-Men-Tshirts-5751695815253257-1.jpg",
+      "brand": "Roadster",
+      "name": "Men Polo Collar Cotton T-shirt",
+      "price": "Rs. 609",
+      "rating": "4.0"
+    },
+    {
+      "id": "113",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19579182/2022/10/7/19904dfd-e12c-4a64-a5a9-848f2ff2733e1665139517555DAMENSCHMenGreenColourblockedT-shirt1.jpg",
+      "brand": "DAMENSCH",
+      "name": "Colourblocked T-shirt",
+      "price": "Rs. 1199",
+      "rating": "3.9"
+    },
+    {
+      "id": "114",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27726078/2024/4/5/d5e7255b-fa77-431b-a7b7-778fc4cbcf8c1712302465748HMMenPrintedT-Shirt1.jpg",
+      "brand": "H&M",
+      "name": "Regular Fit Printed T-shirt",
+      "price": "Rs. 599",
+      "rating": "4.2"
+    },
+    {
+      "id": "115",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25899798/2023/11/16/2324653f-fae2-455f-99b9-85415660e2d81700119381390AeroArmourUnisexOliveGreenT-shirt1.jpg",
+      "brand": "Aero Armour",
+      "name": "Unisex Pure Cotton T-shirt",
+      "price": "Rs. 799",
+      "rating": "4.3"
+    },
+    {
+      "id": "116",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22573376/2023/3/30/30d0ceac-2021-46a4-b679-03a3975cc27c1680166900422DaMENSCHMensConstantTonalRibbedCrewNeckPiqueT-Shirt5.jpg",
+      "brand": "DAMENSCH",
+      "name": "Pique Tonal Ribbed T-Shirt",
+      "price": "Rs. 1052",
+      "rating": "4.1"
+    },
+    {
+      "id": "117",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11468732/2020/3/24/bece2abc-3045-41a5-a4e2-8caaa2354c331585042911269-HM-Men-Black-Solid-Cotton-T-shirt-Regular-Fit-51515850429100-1.jpg",
+      "brand": "H&M",
+      "name": "Men Cotton Pure Cotton T-shirt Regular Fit",
+      "price": "Rs. 799",
+      "rating": "4.3"
+    },
+    {
+      "id": "118",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11269068/2020/1/31/87f9d106-87c5-49d2-9683-8f0179dc3bbd1580443700024-Moda-Rapido-Men-Tshirts-9671580443698489-1.jpg",
+      "brand": "Moda Rapido",
+      "name": "Printed Round Neck Pure Cotton T-shirt",
+      "price": "Rs. 404",
+      "rating": "4.2"
+    },
+    {
+      "id": "119",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19579182/2022/10/7/19904dfd-e12c-4a64-a5a9-848f2ff2733e1665139517555DAMENSCHMenGreenColourblockedT-shirt1.jpg",
+      "brand": "Moda Rapido",
+      "name": "Printed Round Neck Pure Cotton T-shirt",
+      "rating": "4.2",
+      "price": "Rs. 404"
+    },
+    {
+      "id": "120",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24357700/2023/8/5/07a5b0c0-58d1-4939-aeb5-5b8bd3cf39961691231422609CrazymonkUnisexLavenderPrintedPocketsT-shirt1.jpg",
+      "brand": "Crazymonk",
+      "name": "Printed Cotton T-shirt",
+      "rating": "4.3",
+      "price": "Rs. 704"
+    },
+    {
+      "id": "121",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22998942/2023/5/23/144f860e-b650-4206-ac8d-c50a46b646301684818664292-WROGN-Men-Tshirts-4411684818663891-1.jpg",
+      "brand": "WROGN",
+      "name": "Pure Cotton Slim Fit T-shirt",
+      "rating": "3.8",
+      "price": "Rs. 499"
+    }
+  ],
+  "women": [
+    {
+      "id": "122",
+      "rating": 2.8,
+      "ratingsCount": 72,
+      "link": "https://www.myntra.com/dresses/baesd/baesd-mandarin-collar-floral-print-flutter-sleeve-a-line-dress/29103674/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29103674/2024/4/22/3c514175-66ba-4e52-9b59-d2e1baea2e611713772385319BAESDFloralPrintFlutterSleeveA-LineDress1.jpg",
+      "brand": "BAESD",
+      "name": "A-Line Flutter Sleeve Dress",
+      "size": "M",
+      "price": "Rs. 708",
+      "originalPrice": "Rs. 3540",
+      "discount": "80% OFF",
+      "note": "Only Few Left!"
+    },
+    {
+      "id": "123",
+      "rating": 4.4,
+      "ratingsCount": 72,
+      "link": "https://www.myntra.com/dresses/mabish+by+sonal+jain/mabish-by-sonal-jain-high-neck-sleeveless-bodycon-midi-dress/26642240/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26642240/2023/12/24/83d1aec6-d107-4741-b7c7-b46d7b7d4cb41703366459212MABISHbySonalJainPinkDress1.jpg",
+      "brand": "MABISH by Sonal Jain",
+      "name": "Bodycon Midi Dress",
+      "size": "S",
+      "price": "Rs. 959",
+      "originalPrice": "Rs. 2399",
+      "discount": "60% OFF"
+    },
+    {
+      "id": "124",
+      "rating": 4.4,
+      "ratingsCount": 37,
+      "link": "https://www.myntra.com/dresses/fablestreet/fablestreet-geometric-printed-shirt-collar-satin-warp-midi-dress/25374588/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25374588/2023/10/7/42f3ce44-11b8-4708-9115-8c9d8b516f221696652441308FableStreetBrownPrintSatinFormalMaxiDress1.jpg",
+      "brand": "FableStreet",
+      "name": "Printed Satin Warp Dress",
+      "size": "XL",
+      "price": "Rs. 3281",
+      "originalPrice": "Rs. 4495",
+      "discount": "27% OFF",
+      "note": "AD"
+    },
+    {
+      "id": "125",
+      "rating": 4.3,
+      "ratingsCount": 475,
+      "link": "https://www.myntra.com/dresses/stylecast/stylecast-red-shoulder-straps-bodycon-maxi-dress/25323250/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25323250/2023/10/5/31a1cef6-74e2-492b-ae4b-958f338fea2d1696448955699StyleCastRedBodyconMaxiDress1.jpg",
+      "brand": "StyleCast",
+      "name": "Bodycon Maxi Dress",
+      "size": "M",
+      "price": "Rs. 1149",
+      "originalPrice": "Rs. 3149",
+      "discount": "Rs. 2000 OFF"
+    },
+    {
+      "id": "126",
+      "rating": 4.4,
+      "ratingsCount": 1400,
+      "link": "https://www.myntra.com/dresses/street+9/street-9-women-black--brown-printed-maxi-dress/13930088/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/3/22/ab9f71e8-a7fb-4c3c-afef-0d6708f5c25e1616398743589-1.jpg",
+      "brand": "STREET 9",
+      "name": "Printed Maxi Dress",
+      "size": "L",
+      "price": "Rs. 474",
+      "originalPrice": "Rs. 2499",
+      "discount": "81% OFF"
+    },
+    {
+      "id": "127",
+      "link": "https://www.myntra.com/dresses/virgio/virgio-imara-animal-printed-shirt-dress-with-pockets/25968176/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25968176/2024/6/21/c1623e47-8328-4adc-bb97-ec92b1ac986b1718949435299-Virgio-Imara-Animal-Printed-Shirt-Dress-With-Pockets-8121718-1.jpg",
+      "brand": "Virgio",
+      "name": "Animal Printed Shirt Dress",
+      "size": "S",
+      "price": "Rs. 1194",
+      "originalPrice": "Rs. 1990",
+      "discount": "40% OFF",
+      "note": "Only Few Left! AD"
+    },
+    {
+      "id": "128",
+      "rating": 3.5,
+      "ratingsCount": 769,
+      "link": "https://www.myntra.com/dresses/kalini/kalini-colourblocked-sweetheart-neck-flutter-sleeves-maxi-dress/25655440/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25655440/2023/10/27/81d52c4b-3250-4fe5-8b77-8289c86ec4201698400247214KALINIWomenBlueAnarkaliKurta1.jpg",
+      "brand": "KALINI",
+      "name": "Colourblocked Maxi Dress",
+      "size": "XXL",
+      "price": "Rs. 799",
+      "originalPrice": "Rs. 4999",
+      "discount": "84% OFF"
+    },
+    {
+      "id": "129",
+      "rating": 3.5,
+      "ratingsCount": 5900,
+      "link": "https://www.myntra.com/dresses/anouk/anouk-women-red--whitegeometric-printed-pure-cotton-fit-and-flare-midi-dress/19050226/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19050226/2022/10/28/3e208376-b98d-4eaa-8d00-68c9badadffa1666951667421-Anouk-Women-Dresses-7821666951666882-1.jpg",
+      "brand": "Anouk",
+      "name": "Women Printed Midi Dress",
+      "size": "S",
+      "price": "Rs. 599",
+      "originalPrice": "Rs. 1999",
+      "discount": "70% OFF"
+    },
+    {
+      "id": "130",
+      "rating": 4,
+      "ratingsCount": 1700,
+      "link": "https://www.myntra.com/ethnic-dresses/shae+by+sassafras/shae-by-sassafras-orange--blue-floral-maxi-dress/15956914/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15956914/2023/9/1/30a91f16-802e-498a-bdbd-c21be8775c891693544246957ShaebySASSAFRASOrangeBlueFloralMaxiDress1.jpg",
+      "brand": "Shae by SASSAFRAS",
+      "name": "Floral Maxi Dress",
+      "size": "XS",
+      "price": "Rs. 1259",
+      "originalPrice": "Rs. 2999",
+      "discount": "58% OFF",
+      "note": "AD"
+    },
+    {
+      "id": "131",
+      "rating": 3.8,
+      "ratingsCount": 1400,
+      "link": "https://www.myntra.com/dresses/varanga/varanga-crepe-a-line-midi-dress/24591414/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24591414/2023/8/31/c3850ce9-92d1-4b21-875c-98e7a44258c31693480143830-Varanga-Women--Beige-Shirt-Collar-A-Line-Dress-8401693480143-1.jpg",
+      "brand": "Varanga",
+      "name": "A-Line Midi Dress",
+      "size": "S",
+      "price": "Rs. 1098",
+      "originalPrice": "Rs. 2399",
+      "discount": "54% OFF"
+    },
+    {
+      "id": "132",
+      "rating": "4.4",
+      "ratingsCount": "4k",
+      "link": "https://www.myntra.com/dresses/sassafras/sassafras-black--white-striped-t-shirt-dress/9553467/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9553467/2019/5/17/d439c79c-b8c1-4be0-aa44-bf1c798c60801558067986511-SASSAFRAS-Women-Black--White-Striped-T-shirt-Dress-712155806-1.jpg",
+      "brand": "SASSAFRAS",
+      "name": "Striped T-shirt Dress",
+      "size": "XS",
+      "price": "Rs. 628",
+      "originalPrice": "Rs. 1699",
+      "discount": "63% OFF"
+    },
+    {
+      "id": "133",
+      "rating": "4.1",
+      "ratingsCount": "8",
+      "link": "https://www.myntra.com/dresses/fablestreet/fablestreet-floral-printed-straight-a-line-dress/27770162/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27770162/2024/2/22/0fe60cf8-2e93-4e54-9898-772ad3d4a1171708600725611FableStreetFloralPrintA-LineDress1.jpg",
+      "brand": "FableStreet",
+      "name": "Floral Straight A-Line Dress",
+      "size": "XS",
+      "price": "Rs. 2306",
+      "originalPrice": "Rs. 3295",
+      "discount": "30% OFF",
+      "waterMark": "AD"
+    },
+    {
+      "id": "134",
+      "rating": "2.4",
+      "ratingsCount": "11",
+      "link": "https://www.myntra.com/dresses/stylecast/stylecast--women-a-line-dress/29939366/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29939366/2024/6/11/4f1885c8-648b-4e2c-9c72-e7843bfa19ee1718106821988StyleCastA-LineDress1.jpg",
+      "brand": "StyleCast",
+      "name": "A-Line Dress",
+      "size": "S",
+      "price": "Rs. 1149",
+      "originalPrice": "Rs. 2799",
+      "discount": "Rs. 1650 OFF"
+    },
+    {
+      "id": "135",
+      "rating": "4.4",
+      "ratingsCount": "781",
+      "link": "https://www.myntra.com/dresses/vishudh/vishudh-green-ethnic-motifs-maxi-dress/18647770/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18647770/2022/11/3/578b6533-cddf-4adc-867c-a4a62657f5b31667477862231VishudhGreenEthnicMotifsMaxiDress1.jpg",
+      "brand": "Vishudh",
+      "name": "Ethnic Motifs Maxi Dress",
+      "size": "M",
+      "price": "Rs. 849",
+      "originalPrice": "Rs. 1549",
+      "discount": "Rs. 700 OFF"
+    },
+    {
+      "id": "136",
+      "rating": "4.1",
+      "ratingsCount": "368",
+      "link": "https://www.myntra.com/ethnic-dresses/sangria/sangria-orange--pink-ethnic-motifs-ethnic-midi-dress/16846540/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16846540/2022/3/8/0edca4ef-56cb-4558-8d79-82466398cb0d1646713688199-Sangria-Orange--Pink-Ethnic-Motifs-Ethnic-Midi-Dress-6781646-1.jpg",
+      "brand": "Sangria",
+      "name": "Ethnic Motifs Midi Dress",
+      "size": "S",
+      "price": "Rs. 944",
+      "originalPrice": "Rs. 2699",
+      "discount": "65% OFF",
+      "waterMark": "AD"
+    },
+    {
+      "id": "137",
+      "rating": "4.2",
+      "ratingsCount": "19",
+      "link": "https://www.myntra.com/dresses/kalini/kalini-floral-printed-mandarin-collar-puff-sleeves-cotton-fit-and-flare-dress/27628446/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27628446/2024/2/16/fb486085-010a-4f93-91cf-9f845b63a94c1708049817435KALINIFloralPrintA-LineMidiDress1.jpg",
+      "brand": "KALINI",
+      "name": "Cotton Fit and Flare Dress",
+      "size": "M",
+      "price": "Rs. 899",
+      "originalPrice": "Rs. 2999",
+      "discount": "70% OFF"
+    },
+    {
+      "id": "138",
+      "rating": "4",
+      "ratingsCount": "686",
+      "link": "https://www.myntra.com/dresses/athena/athena-black-square-neck-flutter-sleeves-ruffled-detailed-maxi-dress/27234078/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27234078/2024/1/30/f4fb6d43-8933-4fb8-95eb-5a92f94ac2131706609515097AthenaRuffledGeorgetteMaxiDress1.jpg",
+      "brand": "Athena",
+      "name": "Ruffled Detailed Maxi Dress",
+      "size": "S",
+      "price": "Rs. 1119",
+      "originalPrice": "Rs. 2799",
+      "discount": "60% OFF"
+    },
+    {
+      "id": "139",
+      "rating": "4.5",
+      "ratingsCount": "110",
+      "link": "https://www.myntra.com/dresses/fablestreet/fablestreet-women-blue-striped-a-line-dress/13917828/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13917828/2023/4/11/06e1e278-718c-4feb-ab47-082adfa1ced81681208883034-FableStreet-Women-Blue-Striped-A-Line-Dress-6441681208882338-1.jpg",
+      "brand": "FableStreet",
+      "name": "Striped A-Line Dress",
+      "size": "M",
+      "price": "Rs. 1821",
+      "originalPrice": "Rs. 2495",
+      "discount": "27% OFF",
+      "waterMark": "AD"
+    },
+    {
+      "id": "140",
+      "rating": "4.2",
+      "ratingsCount": "103",
+      "link": "https://www.myntra.com/dresses/berrylush+curve/berrylush-curve-plus-size-floral-printed-flared-sleeve-ruffled-crepe-maxi-dress/27336154/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27336154/2024/2/5/51b7bb64-3039-47cd-80c5-b6f95738e7e61707108164770BerrylushCurveFloralPrintFlaredSleeveRuffledCrepeMaxiDress1.jpg",
+      "brand": "Berrylush Curve",
+      "name": "Plus Size Printed Maxi Dress",
+      "size": "3XL",
+      "price": "Rs. 719",
+      "originalPrice": "Rs. 3599",
+      "discount": "80% OFF"
+    },
+    {
+      "id": "141",
+      "rating": "4.4",
+      "ratingsCount": "15.4k",
+      "link": "https://www.myntra.com/dresses/sassafras/sassafras-red--beige-floral-waist-cut-out-maxi-dress/17787796/buy",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240606/hdtN/6660c4e405ac7d77bba0e68e/-473Wx593H-700048393-yellow-MODEL.jpg",
+      "brand": "SASSAFRAS",
+      "name": "Floral Waist Cut-Out Maxi Dress",
+      "size": "S",
+      "price": "Rs. 807",
+      "originalPrice": "Rs. 2699",
+      "discount": "70% OFF"
+    }
+  ],
+  "women-kurtas": [
+    {
+      "id": "142",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/w/p/7/xxl-maternit0103-pristyle-original-imah33mk7kryckez.jpeg?q=70",
+      "price": "₹449",
+      "rating": "88% off",
+      "brand": "PRISTYLE",
+      "name": "Women Solid Viscose Rayon Flared Kurta"
+    },
+    {
+      "id": "143",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/p/2/g/xl-topmumtaz-stylum-original-imagzfaznatztgsp.jpeg?q=70",
+      "price": "₹532",
+      "rating": "74% off",
+      "brand": "Stylum",
+      "name": "Women Floral Print, Embellished Viscose Rayon A-line Kurta"
+    },
+    {
+      "id": "144",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kqpj4i80/kurta/j/h/8/xl-ku632lgn-mokshi-original-imag4nmvvfny6vyf.jpeg?q=70",
+      "price": "₹299",
+      "rating": "82% off",
+      "brand": "mokshi",
+      "name": "Women Printed Viscose Rayon A-line Kurta"
+    },
+    {
+      "id": "145",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/w/8/4/s-gul263krtkashish-sa-rasa-original-imahfg27xteajawh.jpeg?q=70",
+      "price": "₹449",
+      "rating": "88% off",
+      "brand": "Sa Rasa",
+      "name": "Women Printed Pure Cotton Anarkali Kurta"
+    },
+    {
+      "id": "146",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/t/y/n/xl-krta001-wearaholic-original-imahy7282gjrk8cm.jpeg?q=70",
+      "price": "₹279",
+      "rating": "85% off",
+      "brand": "Wearaholic",
+      "name": "Women Printed Viscose Rayon Straight Kurta"
+    },
+    {
+      "id": "147",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/0/j/x/l-springs-wear-kurtsi-rangrasiya-corporation-original-imah385eafcy9k4e.jpeg?q=70",
+      "price": "₹249",
+      "rating": "58% off",
+      "brand": "RANGRASIYA CORPORATION",
+      "name": "Women Printed Crepe Straight Kurta"
+    },
+    {
+      "id": "148",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/j/r/e/l-a-line-kurti-combo-pack-rehmattextile-original-imah27ehapxpm6s7.jpeg?q=70",
+      "price": "₹526",
+      "rating": "73% off",
+      "brand": "REHMAT TEXTILE",
+      "name": "Women Floral Print Viscose Rayon A-line Kurta"
+    },
+    {
+      "id": "149",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l2z26q80/kurta/q/2/5/m-fionaaqua-stylum-original-image7fypzzhuezq.jpeg?q=70",
+      "price": "₹599",
+      "rating": "45% off",
+      "brand": "Stylum",
+      "name": "Pack of 3 Women Embroidered Khadi Cotton A-line Kurta"
+    },
+    {
+      "id": "150",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/y/h/4/xl-puprle-dori-top-ut-venero-original-imahfnb6ar5pgxzh.jpeg?q=70",
+      "price": "₹399",
+      "rating": "50% off",
+      "brand": "UT Venero",
+      "name": "Women Printed Pure Cotton Flared Kurta"
+    },
+    {
+      "id": "151",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/g/7/j/l-maternit0103-pristyle-original-imah33mjetbsvxua.jpeg?q=70",
+      "price": "₹449",
+      "rating": "88% off",
+      "brand": "PRISTYLE",
+      "name": "Women Solid Viscose Rayon Flared Kurta"
+    },
+    {
+      "id": "152",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/u/s/t/s-6272-anr-nikhat-original-imah39eecghysqac.jpeg?q=70",
+      "price": "₹387",
+      "rating": "77% off",
+      "brand": "Nikhat",
+      "name": "Women Embroidered Viscose Rayon Anarkali Kurta"
+    },
+    {
+      "id": "153",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/p/3/h/m-ku773blu-mokshi-original-imagk5hz4xrzukmj.jpeg?q=70",
+      "price": "₹299",
+      "rating": "83% off",
+      "brand": "mokshi",
+      "name": "Women Block Print Pure Cotton Straight Kurta"
+    },
+    {
+      "id": "154",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kqpj4i80/kurta/d/b/a/xl-ku632grn-mokshi-original-imag4nmvm4bsdhzh.jpeg?q=70",
+      "price": "₹299",
+      "rating": "82% off",
+      "brand": "mokshi",
+      "name": "Women Printed Viscose Rayon A-line Kurta"
+    }
+  ],
+  "women-tshirt": [
+    {
+      "id": "155",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28891460/2024/4/12/b5ecfa8e-a740-4606-9ccc-7791554992d71712926809249FableStreetWomenPrintedPoloCollarPureCottonRawEdgeT-shirt1.jpg",
+      "rating": "4.0",
+      "name": "Women Printed Polo Collar Raw Edge T-shirt",
+      "price": "Rs. 1237",
+      "brand": "FableStreet"
+    },
+    {
+      "id": "156",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12263194/2020/12/28/2d702327-4dc6-4237-930d-a9846c94ab531609127181036-UNDER-ARMOUR-Women-Black--White-Live-Sportstyle-Graphic-Bran-1.jpg",
+      "rating": "4.4",
+      "name": "Live Sportstyle Graphic",
+      "price": "Rs. 1499",
+      "brand": "UNDER ARMOUR"
+    },
+    {
+      "id": "157",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25263018/2023/9/30/9c203133-c0e8-4755-a6a5-5b92fa6e52241696039828887LovableSportRedTop1.jpg",
+      "rating": "4.1",
+      "name": "Women Camouflage T-shirt",
+      "price": "Rs. 389",
+      "brand": "Lovable Sport"
+    },
+    {
+      "id": "158",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28106442/2024/3/7/868498a1-74eb-40ba-911c-85ff446d00cf1709828370098UAWSportstyleGraphicShortSleeve1.jpg",
+      "rating": "3.9",
+      "name": "Graphic Short Sleeves T-shirt",
+      "price": "Rs. 1599",
+      "brand": "UNDER ARMOUR"
+    },
+    {
+      "id": "159",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28729478/2024/7/1/1eb8916f-91b2-49a0-9eba-949d312392e81719824255404-Women-Gym-Sports-T-Shirt---Purple-2731719824254856-1.jpg",
+      "rating": "5",
+      "name": "Regular Fit Sports T-shirt",
+      "price": "Rs. 1149",
+      "brand": "Domyos By Decathlon"
+    },
+    {
+      "id": "160",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25263014/2023/9/30/3ca0767d-6e20-4c75-b6cd-089334ab41d01696039827099LovableSportOliveGreenExtendedSleevesTop1.jpg",
+      "rating": "",
+      "name": "Women Camouflage T-shirt",
+      "price": "Rs. 389",
+      "brand": "Lovable Sport"
+    },
+    {
+      "id": "161",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22786738/2024/7/25/346172a8-7f9e-42a9-8750-58c5b7d0b7ee1721895959109-Cultsport-Geometric-Printed-Moisture-Wicking-Round-Neck-Slim-1.jpg",
+      "rating": "4.6",
+      "name": "Printed Slim Fit T-Shirt",
+      "price": "Rs. 699",
+      "brand": "Cultsport"
+    },
+    {
+      "id": "162",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24357700/2023/8/5/07a5b0c0-58d1-4939-aeb5-5b8bd3cf39961691231422609CrazymonkUnisexLavenderPrintedPocketsT-shirt1.jpg",
+      "rating": "4.3",
+      "name": "Printed Cotton T-shirt",
+      "price": "Rs. 704",
+      "brand": "Crazymonk"
+    },
+    {
+      "id": "163",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19041916/2023/12/12/b93a3b2a-0a43-4f8f-9b54-f41bfd9e0d251702377436700-Bewakoof-Women-Black--brown-Typography-Printed--Applique-Ove-12.jpg",
+      "rating": "4.5",
+      "name": "Women Printed Oversized T-shirt",
+      "price": "Rs. 350",
+      "brand": "Bewakoof"
+    },
+    {
+      "id": "164",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27293260/2024/2/27/0352cda3-5144-47ad-9fac-169713143c351709033914185UNDERARMOURTechTankTwistT-shirt1.jpg",
+      "rating": "4.7",
+      "name": "Tech Tank Twist T-shirt",
+      "price": "Rs. 1499",
+      "brand": "UNDER ARMOUR"
+    },
+    {
+      "id": "165",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240322/M2g6/65fdb7c916fd2c6e6a7a0b2f/-473Wx593H-467195332-black-MODEL.jpg",
+      "rating": "4.2",
+      "name": "Solid V-Neck T-shirt",
+      "price": "Rs. 149",
+      "brand": "Roadster"
+    },
+    {
+      "id": "166",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240604/srgg/665f2dee16fd2c6e6a4bddac/-473Wx593H-443048352-jetblack-MODEL.jpg",
+      "rating": "4.2",
+      "name": "Pure Cotton Applique T-shirt",
+      "price": "Rs. 289",
+      "brand": "DressBerry"
+    },
+    {
+      "id": "167",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kp78e4w0/t-shirt/i/f/f/xl-13601618-roadster-original-imag3hkeh6zbegh4.jpeg?q=70",
+      "rating": "63% off",
+      "name": "Women Solid Round Neck Pure Cotton Green T-Shirt",
+      "price": "₹180",
+      "brand": "Roadster"
+    },
+    {
+      "id": "168",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/t/z/q/xl-8593777-roadster-original-imafgwnbkuthqk7y-bb.jpeg?q=70",
+      "rating": "67% off",
+      "name": "Women Striped Round Neck Pure Cotton Dark Blue T-Shirt",
+      "price": "₹260",
+      "brand": "Roadster"
+    },
+    {
+      "id": "169",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/5/z/b/s-ww-melanin-balck-smartees-original-imagnxarrg6ygzhj.jpeg?q=70",
+      "rating": "89% off",
+      "name": "Women Printed, Typography Round Neck Cotton Blend Black T-Shirt",
+      "price": "₹169",
+      "brand": "Smartees"
+    },
+    {
+      "id": "170",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/v/s/z/s-focus-adyavastram-original-imahy9gqspzermwk.jpeg?q=70",
+      "rating": "82% off",
+      "name": "Focus Tshirt Women Typography Round Neck Cotton Blend Purple T-Shirt",
+      "price": "₹192",
+      "brand": "Adyavastram"
+    },
+    {
+      "id": "171",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/h/i/l/s-half-sleeve-oversized-t-shirts-for-women-hilfire-region-original-imah2h9j4wwpfpwt.jpeg?q=70",
+      "rating": "86% off",
+      "name": "Women Graphic Print, Typography Round Neck Pure Cotton Beige T-Shirt",
+      "price": "₹199",
+      "brand": "HILFIRE REGION"
+    },
+    {
+      "id": "172",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240712/n55N/669123e16f60443f31f635f8/-473Wx593H-700185891-brown-MODEL.jpg",
+      "rating": "81% off",
+      "name": "Women Solid V Neck Cotton Blend Black T-Shirt",
+      "price": "₹168",
+      "brand": "Bi Fashion"
+    },
+    {
+      "id": "173",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/top/r/u/5/xxl-1-ab100501-astrape-bronte-original-imahfwx36zhtthb4.jpeg?q=70",
+      "rating": "70% off",
+      "name": "Pack of 2 Women Solid Round Neck Pure Cotton Multicolor T-Shirt",
+      "price": "₹659",
+      "brand": "Astrape & Bronte"
+    },
+    {
+      "id": "174",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/n/r/0/m-po2-bf-43wt-46cr-juneberry-original-imah29vnkaqdccvy.jpeg?q=70",
+      "rating": "80% off",
+      "name": "Women Typography Crew Neck Pure Cotton Pink T-Shirt",
+      "price": "₹434",
+      "brand": "JUNEBERRY"
+    }
+  ],
+  "women-sarees": [
+    {
+      "id": "175",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26105162/2023/11/28/2189873d-9176-4cd0-86e7-5373c134f69c1701191303413SangriaBlackGeorgetteEthnicEmbellishedPartyWearSareewithMatc1.jpg",
+      "price": "Rs. 1469",
+      "brand": "Sangria",
+      "rating": 3.4,
+      "name": "Sequinned Embellished Saree"
+    },
+    {
+      "id": "176",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26562828/2023/12/21/0b4061b5-260f-4964-8535-3236df4273fb1703129709551WovenPurpleDesignerCottonSilkSaree1.jpg",
+      "price": "Rs. 989",
+      "brand": "KALINI",
+      "rating": 3.6,
+      "name": "Silk Blend Kanjeevaram Saree"
+    },
+    {
+      "id": "177",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26768112/2024/1/22/0921ccb8-e65f-463d-ae7e-c0bebe9c48091705907483167-Mohey-Black-Art-Silk-WEAVE-Sarees-8301705907482652-1.jpg",
+      "price": "",
+      "brand": "MOHEY",
+      "rating": 4,
+      "name": "Ethnic Motifs Saree Art Silk"
+    },
+    {
+      "id": "178",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13988128/2021/7/6/a44399f8-275a-45bf-8974-33cb2642a2661625548890070-Saree-mall-Women-Sarees-5941625548889708-1.jpg",
+      "price": "Rs. 999",
+      "brand": "Saree mall",
+      "rating": 4.2,
+      "name": "Ethnic Motifs Silk Blend Saree with Woven Design border"
+    },
+    {
+      "id": "179",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29521458/2024/5/14/eab29eb5-043f-4e2a-85fa-4bccfb3a2acf1715671133686Sarees1.jpg",
+      "price": "Rs. 981",
+      "brand": "KALINI",
+      "rating": 3.8,
+      "name": "Paithani Silk Blend Saree"
+    },
+    {
+      "id": "180",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26768160/2024/1/22/e5df049f-292a-4df7-8b43-14de7be532601705926090371-MOHEY-Floral-Zari-Silk-Blend-Saree-4231705926089821-1.jpg",
+      "price": "",
+      "brand": "MOHEY",
+      "rating": 4.7,
+      "name": "Floral Saree Silk Blend"
+    },
+    {
+      "id": "181",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23366162/2023/5/24/4e685122-b6e9-49a9-91a6-a366fab29d261684898824082Sarees5.jpg",
+      "price": "Rs. 999",
+      "brand": "Sangria",
+      "rating": 3.9,
+      "name": "Bandhani Poly Georgette Saree"
+    },
+    {
+      "id": "182",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27214066/2024/1/29/25f22eaa-c9e8-422e-be02-2eddbe59332d1706510055234KALINIKalamkariArtSilkBlockPrintSaree1.jpg",
+      "price": "Rs. 601",
+      "brand": "KALINI",
+      "rating": 4.2,
+      "name": "Kalamkari Block Print Saree"
+    },
+    {
+      "id": "183",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23471970/2023/6/12/907148aa-f89e-4750-aed1-358df74ef86e1686573685715-MOHEY-Woven-Design-Floral-Zari-Art-Silk-Saree-44168657368518-1.jpg",
+      "price": "",
+      "brand": "MOHEY",
+      "rating": 4.4,
+      "name": "Floral Art Silk Saree"
+    },
+    {
+      "id": "184",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29519890/2024/5/13/c064b3c8-f2a7-4c27-8361-53d4f7b4045a1715607955645OmbreShadesSatinBlendReadyToWearSaree1.jpg",
+      "price": "Rs. 599",
+      "brand": "RACHNA",
+      "rating": 4.1,
+      "name": "Ombre Saree"
+    },
+    {
+      "id": "185",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30041284/2024/6/26/bb66fe16-ec16-415a-8b94-3351af2ab8161719387058120BandhanivillaBandhaniZariPureSilkBandhaniSaree1.jpg",
+      "price": "Rs. 1359",
+      "brand": "Bandhanivilla",
+      "rating": 2.5,
+      "name": "Bandhani Pure Silk Saree"
+    },
+    {
+      "id": "186",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26105162/2023/11/28/2189873d-9176-4cd0-86e7-5373c134f69c1701191303413SangriaBlackGeorgetteEthnicEmbellishedPartyWearSareewithMatc1.jpg",
+      "price": "",
+      "brand": "MOHEY",
+      "rating": 4.7,
+      "name": "Solid Saree"
+    },
+    {
+      "id": "187",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26562828/2023/12/21/0b4061b5-260f-4964-8535-3236df4273fb1703129709551WovenPurpleDesignerCottonSilkSaree1.jpg",
+      "price": "Rs. 896",
+      "brand": "AWRIYA",
+      "rating": 2,
+      "name": "Woven Design Banarasi Saree"
+    },
+    {
+      "id": "188",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26768112/2024/1/22/0921ccb8-e65f-463d-ae7e-c0bebe9c48091705907483167-Mohey-Black-Art-Silk-WEAVE-Sarees-8301705907482652-1.jpg",
+      "price": "Rs. 1259",
+      "brand": "Sangria",
+      "rating": 3.9,
+      "name": "Embroidered Saree With Blouse"
+    },
+    {
+      "id": "189",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13988128/2021/7/6/a44399f8-275a-45bf-8974-33cb2642a2661625548890070-Saree-mall-Women-Sarees-5941625548889708-1.jpg",
+      "price": "",
+      "brand": "MOHEY",
+      "rating": 4.3,
+      "name": "Woven Design Saree"
+    },
+    {
+      "id": "190",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29521458/2024/5/14/eab29eb5-043f-4e2a-85fa-4bccfb3a2acf1715671133686Sarees1.jpg",
+      "price": "Rs. 729",
+      "brand": "KALINI",
+      "rating": 3.6,
+      "name": "Woven Design Banarasi Saree"
+    },
+    {
+      "id": "191",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23471970/2023/6/12/907148aa-f89e-4750-aed1-358df74ef86e1686573685715-MOHEY-Woven-Design-Floral-Zari-Art-Silk-Saree-44168657368518-1.jpg",
+      "price": "Rs. 699",
+      "brand": "KALINI",
+      "rating": 4.1,
+      "name": "Ethnic Motifs Printed Saree"
+    },
+    {
+      "id": "192",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23366162/2023/5/24/4e685122-b6e9-49a9-91a6-a366fab29d261684898824082Sarees5.jpg",
+      "price": "Rs. 2799",
+      "brand": "navyasa by liva",
+      "rating": "",
+      "name": "Abstract Printed Liva Saree"
+    },
+    {
+      "id": "193",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27214066/2024/1/29/25f22eaa-c9e8-422e-be02-2eddbe59332d1706510055234KALINIKalamkariArtSilkBlockPrintSaree1.jpg",
+      "price": "Rs. 1580",
+      "brand": "kasee",
+      "rating": 4,
+      "name": "Embellished Saree"
+    },
+    {
+      "id": "194",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15837188/2021/12/14/19528cd6-cff3-419b-8c85-d1f3c3ef97841639470253876-MOHEY-Red-Solid-Saree-3201639470253376-1.jpg",
+      "price": "Rs. 951",
+      "brand": "Tikhi Imli",
+      "rating": 4.2,
+      "name": "Embellished Floral Saree"
+    },
+    {
+      "id": "195",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29519890/2024/5/13/c064b3c8-f2a7-4c27-8361-53d4f7b4045a1715607955645OmbreShadesSatinBlendReadyToWearSaree1.jpg",
+      "price": "Rs. 3919",
+      "brand": "navyasa by liva",
+      "rating": "",
+      "name": "Abstract Printed Liva Saree"
+    },
+    {
+      "id": "196",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240712/XHdi/66914be01d763220fa728ff4/-473Wx593H-700187158-beige-MODEL.jpg",
+      "price": "Rs. 690",
+      "brand": "Varkala Silk Sarees",
+      "rating": 3.3,
+      "name": "Silk Blend Printed Saree"
+    },
+    {
+      "id": "197",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230522/8nnZ/646ac29842f9e729d79f7cff/-473Wx593H-466045347-aqua-MODEL.jpg",
+      "price": "Rs. 3999",
+      "brand": "navyasa by liva",
+      "rating": "",
+      "name": "Abstract Printed Liva Saree"
+    },
+    {
+      "id": "198",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240323/ruUa/65fde04a16fd2c6e6a7a584e/-473Wx593H-467193957-black-MODEL.jpg",
+      "price": "Rs. 2000",
+      "brand": "Unnati Silks",
+      "rating": 3.9,
+      "name": "Woven Design Silk Cotton Saree"
+    },
+    {
+      "id": "199",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240426/AaD7/662ad8e505ac7d77bb2e05b0/-473Wx593H-467279228-teal-MODEL.jpg",
+      "price": "Rs. 1399",
+      "brand": "Tikhi Imli",
+      "rating": 4.1,
+      "name": "Embroidered Saree"
+    },
+    {
+      "id": "200",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240427/CWv3/662c294f05ac7d77bb2fab58/-473Wx593H-467283846-green-MODEL.jpg",
+      "price": "Rs. 1955",
+      "brand": "Mitera",
+      "rating": 3.9,
+      "name": "Woven Design Saree"
+    },
+    {
+      "id": "201",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240129/p1eg/65b7d3c916fd2c6e6ac857b7/-473Wx593H-467019544-white-MODEL.jpg",
+      "price": "Rs. 1124",
+      "brand": "IMARA",
+      "rating": 3.8,
+      "name": "Embroidered Pure Silk Saree"
+    },
+    {
+      "id": "202",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240722/wHVE/669d8c746f60443f319620ab/-473Wx593H-700213476-blue-MODEL.jpg",
+      "price": "Rs. 1170",
+      "brand": "Mitera",
+      "rating": 3.6,
+      "name": "Ethnic Motifs Embroidered Saree"
+    },
+    {
+      "id": "203",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231003/OzcH/651c1862afa4cf41f51cb408/-473Wx593H-466659058-maroon-MODEL.jpg",
+      "price": "Rs. 870",
+      "brand": "Varkala Silk Sarees",
+      "rating": 3.4,
+      "name": "Art Silk Printed Saree"
+    },
+    {
+      "id": "204",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230605/vTcw/647de83042f9e729d7234ec6/-473Wx593H-466235200-green-MODEL.jpg",
+      "price": "Rs. 999",
+      "brand": "Chhabra 555",
+      "rating": 4.1,
+      "name": "Embroidered Saree"
+    },
+    {
+      "id": "205",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240315/BPEG/65f4245b16fd2c6e6a5f8805/-473Wx593H-467169131-purple-MODEL.jpg",
+      "price": "Rs. 1299",
+      "brand": "Saree mall",
+      "rating": 4.1,
+      "name": "Silk Blend Printed Saree"
+    },
+    {
+      "id": "206",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240415/mfjc/661d55f305ac7d77bb0ab7d9/-473Wx593H-467252148-gold-MODEL.jpg",
+      "price": "Rs. 539",
+      "brand": "KALINI",
+      "rating": 4.1,
+      "name": "Ethnic Motifs Printed Saree"
+    }
+  ],
+  "kids": [
+    {
+      "id": "207",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28011372/2024/3/4/d3f9db44-b01d-491a-bd90-5b27c386544b1709527832633YKDisneyKids3PrintedExtendedSleevesAppliqueT-shirt1.jpg",
+      "price": "Rs. 488",
+      "brand": "YK Disney",
+      "name": "Kids Pack of 3 T-shirts",
+      "rating": 4.5
+    },
+    {
+      "id": "208",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30039892/2024/6/26/816f8555-c3b7-450b-a340-46c58f32cccb1719381139283Ed-a-MammaBabyKidsPrintedBioFinishAppliqueT-shirt1.jpg",
+      "price": "Rs. 559",
+      "brand": "Ed-a-Mamma Baby",
+      "name": "Typography Printed T-shirt",
+      "rating": 4.3
+    },
+    {
+      "id": "209",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24288222/2023/8/4/76cc5ca8-528d-42db-8277-206f30040e351691160327902KUCHIPOOKidsRedTypography5PrintedAppliqueT-shirt1.jpg",
+      "price": "Rs. 784",
+      "brand": "KUCHIPOO",
+      "name": "Kids Pack Of 5 Cotton T-shirt",
+      "rating": 4.3
+    },
+    {
+      "id": "210",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/15385064a.webp",
+      "price": "Rs. 456",
+      "brand": "YK Disney",
+      "name": "Pack of 3 Printed T-shirt",
+      "rating": 4.5
+    },
+    {
+      "id": "211",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26944336/2024/1/16/0a2edbf4-f78b-45e5-b415-57ad8c9eb81b1705407800956GoogoGaagaBoysOrangeTypography2PrintedAppliqueT-shirt1.jpg",
+      "price": "Rs. 210",
+      "brand": "Googo Gaaga",
+      "name": "Typography Printed T-shirt",
+      "rating": 4.4
+    },
+    {
+      "id": "212",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22204272/2023/5/2/e4df577a-6725-43de-bac3-3c8280c24fb61683017842296-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-1.jpg",
+      "price": "Rs. 584",
+      "brand": "HELLCAT",
+      "name": "Boys Pack Of 3 Cotton T-shirt",
+      "rating": 4.1
+    },
+    {
+      "id": "213",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25100610/2023/10/5/c120309d-06f2-4bd4-90e2-5523cd57d9ad1696497015349-KUCHIPOO-Kids-Navy-Blue-Typography-5-Printed-T-shirt-4661696-1.jpg",
+      "price": "Rs. 784",
+      "brand": "KUCHIPOO",
+      "name": "Kids Pack Of 5 T-shirts",
+      "rating": 4.3
+    },
+    {
+      "id": "214",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21069498/2022/12/5/5bcdeeda-622a-4869-9b64-1d38c00f92771670222458163Tshirts1.jpg",
+      "price": "Rs. 493",
+      "brand": "Minicult",
+      "name": "Kids Printed Cotton T-shirt",
+      "rating": 4.5
+    },
+    {
+      "id": "215",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25430266/2023/10/10/910c5dcc-b5b9-45b7-9b18-4fd410fc5b571696943880263YKWarnerBrosKidsYellowTypographyPrintedPureCottonAppliqueT-s1.jpg",
+      "price": "Rs. 259",
+      "brand": "YK Warner Bros",
+      "name": "Kids Printed Cotton T-Shirt",
+      "rating": 4.5
+    },
+    {
+      "id": "216",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23449218/2023/5/27/34f607d2-f6c9-49c5-90ef-142f1a31b4fb1685198216506GoogoGaagaBoysBlackPrintedHoodedAppliqueT-shirt1.jpg",
+      "price": "Rs. 168",
+      "brand": "Googo Gaaga",
+      "name": "Boys Graphic Printed T-shirt",
+      "rating": 4.5
+    },
+    {
+      "id": "217",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30087662/2024/7/1/d8de35f0-76bf-4fe8-92fb-4a7d3250655d1719806994067StyleCastKidsAppliqueT-shirt1.jpg",
+      "price": "Rs. 885",
+      "brand": "StyleCast",
+      "name": "Kids Graphic Printed T-shirt",
+      "rating": 4.5
+    },
+    {
+      "id": "218",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26384098/2023/12/12/c7ada6ee-2ba9-4b35-b825-4dd35e75dd9f1702393455532KUCHIPOOKidsOrangeYellow3PrintedT-shirt1.jpg",
+      "price": "Rs. 686",
+      "brand": "KUCHIPOO",
+      "name": "Kids Pack Of 3 Cotton T-shirts",
+      "rating": 4.5
+    },
+    {
+      "id": "219",
+      "image": "https://cdn.pixelspray.io/v2/black-bread-289bfa/ofVBQK/original/edamamma-product/EATTKBTSP841-10Y/665/EATTKBTSP841-10Y_1_6421.webp",
+      "price": "Rs. 584",
+      "brand": "MINI KLUB",
+      "name": "Kids Pack Of 2 Cotton T-shirts",
+      "rating": 4.6
+    },
+    {
+      "id": "220",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27429778/2024/2/7/09bcbc55-dae5-437a-9591-f63557f8728c1707305711382UnitedColorsofBenettonBoysPoloCollarT-shirt1.jpg",
+      "price": "Rs. 584",
+      "brand": "United Colors of Benetton",
+      "name": "Boys Polo Collar T-shirt",
+      "rating": 4.6
+    },
+    {
+      "id": "221",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30087701/2024/7/1/8c0f6f64-2bb8-46f3-9d4f-7d28d333c7e81719807654949StyleCastKidsHighNeckEthnicAppliqueT-shirt1.jpg",
+      "price": "Rs. 892",
+      "brand": "StyleCast",
+      "name": "Kids Graphic Printed T-shirt",
+      "rating": 4.6
+    },
+    {
+      "id": "222",
+      "image": "https://kidsindia.in/wp-content/uploads/2021/11/2721-01.jpg",
+      "price": "Rs. 491",
+      "brand": "Caprese",
+      "name": "Girls Printed Cotton T-shirt",
+      "rating": 4.3
+    },
+    {
+      "id": "223",
+      "image": "https://sportyandrich.com/cdn/shop/files/HEALTH-IS-WEALTH-T-SHIRT-COTTON-CANDY-1.jpg?v=1713962591&width=700",
+      "price": "Rs. 284",
+      "brand": "MIMPI",
+      "name": "Girls Printed T-shirt",
+      "rating": 4.4
+    }
+  ],
+  "kids-tops": [
+    {
+      "id": "224",
+      "image": "https://m.media-amazon.com/images/I/61h3vfKX8ML._AC_UL320_.jpg",
+      "price": "₹1,299 (50% off)",
+      "name": "Allen Solly Girl's Regular Fit T-Shirt",
+      "brand": "Allen Solly",
+      "rating": "4.0 out of 5 stars",
+      "url": "https://www.amazon.in/Allen-Solly-Regular-T-Shirt-AGKCCRGFT28931_White/dp/B0BLZ7K67L/ref=sr_1_45"
+    },
+    {
+      "id": "225",
+      "image": "https://m.media-amazon.com/images/I/61h3vfKX8ML._AC_UL320_.jpg",
+      "price": "₹949 (62% off)",
+      "name": "Hopscotch Girls Graphic Regular Fit T-Shirt (Pack of 5)",
+      "brand": "Hopscotch",
+      "rating": "4.8 out of 5 stars",
+      "url": "https://www.amazon.in/Hopscotch-Graphic-Regular-T-Shirt-HSP-4573382/dp/B0CKT54V5F/ref=sr_1_46"
+    },
+    {
+      "id": "226",
+      "image": "https://m.media-amazon.com/images/I/61h3vfKX8ML._AC_UL320_.jpg",
+      "price": "₹1,299 (50% off)",
+      "name": "Allen Solly Girl's Regular Fit T-Shirt",
+      "brand": "Allen Solly",
+      "rating": "4.0 out of 5 stars"
+    },
+    {
+      "id": "227",
+      "image": "https://m.media-amazon.com/images/I/61h3vfKX8ML._AC_UL320_.jpg",
+      "price": "₹949 (62% off)",
+      "name": "Hopscotch Girls Graphic Regular Fit T-Shirt (Pack of 5)",
+      "brand": "Hopscotch",
+      "rating": "4.8 out of 5 stars"
+    },
+    {
+      "id": "228",
+      "image": "https://m.media-amazon.com/images/I/71A+DmK9PoL._AC_UL320_.jpg",
+      "price": "₹949 (62% off)",
+      "name": "Max Floral Printed Knitted T-Shirt",
+      "brand": "Max",
+      "rating": "4.5 out of 5 stars"
+    },
+    {
+      "id": "229",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/p/v/t/12-18-months-vm-742487-10339-v-mart-original-imah3ya4pvsxg3rz.jpeg?q=70",
+      "price": "₹410",
+      "name": "V-MART Baby Boys & Baby Girls Casual T-shirt Dungaree",
+      "brand": "V-MART",
+      "rating": "77% off"
+    },
+    {
+      "id": "230",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kykgb680/kids-apparel-combo/j/h/a/6-12-months-kdst31-kdst28-kdst29-lofn-original-imagarsgbmzaah3w.jpeg?q=70",
+      "price": "₹329",
+      "name": "Lofn Baby Boys & Baby Girls Casual T-shirt Shorts",
+      "brand": "Lofn",
+      "rating": "71% off"
+    },
+    {
+      "id": "231",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/a/l/m/12-18-months-5555ak-p10-hst-p5-10bp-p5-fb-group-of-company-original-imaggpgyystpjsjg.jpeg?q=70",
+      "price": "₹433",
+      "name": "FB GROUP OF COMPANY Baby Boys & Baby Girls Casual T-shirt Track Pants",
+      "brand": "FB GROUP OF COMPANY",
+      "rating": "51% off"
+    },
+    {
+      "id": "232",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/x/j/u/4-5-years-0001-belliza-original-imagqhvzfqmrzg82.jpeg?q=70",
+      "price": "₹240",
+      "name": "Belliza Girls Party(Festive) Top Pant",
+      "brand": "Belliza",
+      "rating": "65% off"
+    },
+    {
+      "id": "233",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/t/c/g/2-3-years-f-jacket-top-pant-sabinagarments-original-imah3ygzjdypnh4h.jpeg?q=70",
+      "price": "₹412",
+      "name": "SabinaGarments Baby Boys & Baby Girls Party(Festive) Shirt Dungaree",
+      "brand": "SabinaGarments",
+      "rating": "58% off"
+    },
+    {
+      "id": "234",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/6/e/y/11-12-years-h-pant-41761-smartraho-original-imagznyq6eshktqg.jpeg?q=70",
+      "price": "₹344",
+      "name": "SmartRAHO Boys Casual T-shirt Track Pants",
+      "brand": "SmartRAHO",
+      "rating": "78% off"
+    },
+    {
+      "id": "235",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/7/2/c/5-6-years-mh-new-bys-set-emoji-bharath-fashion-original-imah2sjq4xyzykhk.jpeg?q=70",
+      "price": "₹294",
+      "name": "BHARATH FASHION Boys Casual T-shirt Shorts",
+      "brand": "BHARATH FASHION",
+      "rating": "63% off"
+    },
+    {
+      "id": "236",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/k/i/u/2-3-years-new-design-denim-sleepless-dresses-for-kids-girl-mytex-original-imah2y89vte9grhz.jpeg?q=70",
+      "price": "₹484",
+      "name": "Mytex Baby Girls Party(Festive) Top Shorts",
+      "brand": "Mytex",
+      "rating": "Lowest Price in 30 days"
+    }
+  ],
+  "kids-bag": [
+    {
+      "id": "237",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29920610/2024/6/9/52584e4d-ea24-4bac-8fe4-1ce06149c9471717874650954PoloClassUnisexKidsGraphicBackpackwithHipStrap1.jpg",
+      "price": "Rs. 649",
+      "name": "Polo Class Unisex Kids Graphic Printed Ergonomic Backpack",
+      "brand": "Polo Class",
+      "rating": "(35% OFF)"
+    },
+    {
+      "id": "238",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27179988/2024/1/27/5f592829-059d-460a-a31d-513640dd15c11706356660710SkybagsUnisexKidsBackpack1.jpg",
+      "price": "Rs. 945",
+      "name": "Skybags Kids Solid Small Backpack",
+      "brand": "Skybags",
+      "rating": "4.7 (6 reviews)"
+    },
+    {
+      "id": "239",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28894600/2024/4/12/4e5debf6-45f8-4109-b0b0-9f4c1a5c5f751712932285291GearCartoonSpace15BackpackBackpack-Green1.jpg",
+      "price": "Rs. 999",
+      "name": "Gear Kids Graphic Printed Backpack",
+      "brand": "Gear",
+      "rating": "(Rs. 1000 OFF)"
+    },
+    {
+      "id": "240",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24077952/2023/8/2/399c0426-5139-434a-8b42-b1eb48f531b41690959140498WalletsCapreseWomenWalletsCapreseWomenWalletsCapreseWomenWal1.jpg",
+      "price": "Rs. 747",
+      "name": "Skybags Kids Disney Frozen Backpack",
+      "brand": "Skybags",
+      "rating": "4.5 (771 reviews)"
+    },
+    {
+      "id": "241",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30020041/2024/6/22/227d8e71-fbb1-4f84-b3dd-5763316be2701719057490802SmilyKiddosUnisexKidsGraphicBackpack1.jpg",
+      "price": "Rs. 719",
+      "name": "Smily Kiddos Unisex Kids Graphic Backpack",
+      "brand": "Smily Kiddos",
+      "rating": "(40% OFF)"
+    },
+    {
+      "id": "242",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14303976/2022/3/7/2841f5c6-ca91-48fd-8108-93f757982b541646643787631-Skybags-Unisex-Kids-Backpacks-3481646643786848-1.jpg",
+      "price": "Rs. 857",
+      "name": "Skybags Kids Printed Backpack",
+      "brand": "Skybags",
+      "rating": "4.5 (1.2k reviews)"
+    },
+    {
+      "id": "243",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29605364/2024/5/16/d3ca8f66-17b7-4740-9c32-f782985c41b51715884111993SwingintoAdventurewiththeMarvelSpider-Man14-InchBackpack-HMH1.jpg",
+      "price": "Rs. 1079",
+      "name": "Marvel Kids Graphic Printed Backpack (Up to 16 Inch)",
+      "brand": "Marvel",
+      "rating": ""
+    },
+    {
+      "id": "244",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14303986/2022/2/28/bde8981c-0b7b-4031-ba0d-48a84e68136e1646051486624-Skybags-Unisex-Kids-Backpacks-8621646051485796-1.jpg",
+      "price": "Rs. 659",
+      "name": "Skybags Graphic Backpack",
+      "brand": "Skybags",
+      "rating": "4.5 (1.9k reviews)"
+    },
+    {
+      "id": "245",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19860442/2022/10/28/5f64be2b-803e-4d22-9188-5fab89daca0a1666931770403FranticUnisexKidsVelvetElephantBackpack1.jpg",
+      "price": "",
+      "name": "Frantic Velvet Elephant Backpack",
+      "brand": "Frantic",
+      "rating": "3.5 (21 reviews)"
+    },
+    {
+      "id": "246",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27174118/2024/1/25/49254e3d-fe3c-4380-8c6a-057a87869f761706182312547SYGAUnisexKidsBackpack1.jpg",
+      "price": "Rs. 789",
+      "name": "SYGA Kids Graphic Printed Backpack",
+      "brand": "SYGA",
+      "rating": "4.5 (13 reviews)"
+    },
+    {
+      "id": "247",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14303958/2022/3/30/36b2316b-8ccc-4b68-ae66-50fd00cbb0fa1648641220125-Skybags-Unisex-Kids-Backpacks-4391648641219476-1.jpg",
+      "price": "Rs. 825",
+      "name": "Skybags Kids Riddle4 School Backpack",
+      "brand": "Skybags",
+      "rating": "4.5 (525 reviews)"
+    },
+    {
+      "id": "248",
+      "base_href": "https://www.myntra.com/backpacks/polo+class/polo-class-unisex-kids-graphic-printed-ergonomic-backpack/29920610/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29920610/2024/6/9/52584e4d-ea24-4bac-8fe4-1ce06149c9471717874650954PoloClassUnisexKidsGraphicBackpackwithHipStrap1.jpg",
+      "brand": "Polo Class",
+      "product_name": "Printed Ergonomic Backpack",
+      "size": "Onesize",
+      "price": "Rs. 649",
+      "strike_price": "Rs. 999",
+      "discount_percentage": "(35% OFF)",
+      "rating": "",
+      "ratings_count": ""
+    },
+    {
+      "id": "249",
+      "base_href": "https://www.myntra.com/backpacks/skybags/skybags-kids-solid-small-backpack/27179988/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27179988/2024/1/27/5f592829-059d-460a-a31d-513640dd15c11706356660710SkybagsUnisexKidsBackpack1.jpg",
+      "brand": "Skybags",
+      "product_name": "Kids Solid Small Backpack",
+      "size": "Onesize",
+      "price": "Rs. 945",
+      "strike_price": "Rs. 1350",
+      "discount_percentage": "(30% OFF)",
+      "rating": "4.7",
+      "ratings_count": "6"
+    },
+    {
+      "id": "250",
+      "base_href": "https://www.myntra.com/backpacks/gear/gear-kids-graphic-printed-backpack/28894600/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28894600/2024/4/12/4e5debf6-45f8-4109-b0b0-9f4c1a5c5f751712932285291GearCartoonSpace15BackpackBackpack-Green1.jpg",
+      "brand": "Gear",
+      "product_name": "Kids Graphic Printed Backpack",
+      "size": "Onesize",
+      "price": "Rs. 999",
+      "strike_price": "Rs. 1999",
+      "discount_percentage": "(Rs. 1000 OFF)",
+      "rating": "",
+      "ratings_count": ""
+    },
+    {
+      "id": "251",
+      "base_href": "https://www.myntra.com/backpacks/skybags/skybags-kids-disney-frozen-backpack/24077952/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24077952/2023/8/2/399c0426-5139-434a-8b42-b1eb48f531b41690959140498WalletsCapreseWomenWalletsCapreseWomenWalletsCapreseWomenWal1.jpg",
+      "brand": "Skybags",
+      "product_name": "Kids Disney Frozen Backpack",
+      "size": "Onesize",
+      "price": "Rs. 747",
+      "strike_price": "Rs. 2198",
+      "discount_percentage": "(66% OFF)",
+      "rating": "4.5",
+      "ratings_count": "771"
+    },
+    {
+      "id": "252",
+      "base_href": "https://www.myntra.com/backpacks/smily+kiddos/smily-kiddos-unisex-kids-graphic-backpack/30020041/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30020041/2024/6/22/227d8e71-fbb1-4f84-b3dd-5763316be2701719057490802SmilyKiddosUnisexKidsGraphicBackpack1.jpg",
+      "brand": "Smily Kiddos",
+      "product_name": "Graphic Backpack",
+      "size": "L",
+      "price": "Rs. 719",
+      "strike_price": "Rs. 1199",
+      "discount_percentage": "(40% OFF)",
+      "rating": "",
+      "ratings_count": ""
+    },
+    {
+      "id": "253",
+      "base_href": "https://www.myntra.com/backpacks/skybags/skybags-kids-blue--orange-conversational-printed-backpack/14303976/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14303976/2022/3/7/2841f5c6-ca91-48fd-8108-93f757982b541646643787631-Skybags-Unisex-Kids-Backpacks-3481646643786848-1.jpg",
+      "brand": "Skybags",
+      "product_name": "Kids Printed Backpack",
+      "size": "Onesize",
+      "price": "Rs. 857",
+      "strike_price": "Rs. 2598",
+      "discount_percentage": "(67% OFF)",
+      "rating": "4.5",
+      "ratings_count": "1.2k"
+    },
+    {
+      "id": "254",
+      "base_href": "https://www.myntra.com/backpacks/marvel/marvel-kids-graphic-printed-backpack-up-to-16-inch/29605364/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29605364/2024/5/16/d3ca8f66-17b7-4740-9c32-f782985c41b51715884111993SwingintoAdventurewiththeMarvelSpider-Man14-InchBackpack-HMH1.jpg",
+      "brand": "Marvel",
+      "product_name": "Kids Graphic Printed Backpack",
+      "size": "S",
+      "price": "Rs. 999",
+      "strike_price": "Rs. 1999",
+      "discount_percentage": "(Rs. 1000 OFF)",
+      "rating": "",
+      "ratings_count": ""
+    },
+    {
+      "id": "255",
+      "base_href": "https://www.myntra.com/backpacks/skybags/skybags-unisex-kids-blue--red-riddle-4-school-cricket-print-backpack/14303958/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14303958/2022/3/30/36b2316b-8ccc-4b68-ae66-50fd00cbb0fa1648641220125-Skybags-Unisex-Kids-Backpacks-4391648641219476-1.jpg",
+      "brand": "Skybags",
+      "product_name": "Kids Riddle4 School Backpack",
+      "size": "Onesize",
+      "price": "Rs. 825",
+      "strike_price": "Rs. 2500",
+      "discount_percentage": "(67% OFF)",
+      "rating": "4.5",
+      "ratings_count": "525"
+    },
+    {
+      "id": "256",
+      "base_href": "https://www.myntra.com/backpacks/gear/gear-kids-graphic-printed-backpack-26l/22850016/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22850016/2023/5/8/73fc84c4-e975-4053-ab14-1d1b4f5839111683535602424-GEAR-GALAXY-30L-BACKPACK-BLACK-6721683535601864-1.jpg",
+      "brand": "Gear",
+      "product_name": "Kids Graphic Printed Backpack",
+      "size": "Onesize",
+      "price": "Rs. 1011",
+      "strike_price": "Rs. 2199",
+      "discount_percentage": "(54% OFF)",
+      "rating": "4.4",
+      "ratings_count": "95"
+    },
+    {
+      "id": "257",
+      "base_href": "https://www.myntra.com/backpacks/skybags/skybags-kids-black--blue-graphic-printed-backpack/14303984/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14303984/2022/3/7/94acca99-a5b8-4d56-a0a9-af126f48b36e1646643839057-Skybags-Unisex-Kids-Backpacks-981646643838203-1.jpg",
+      "brand": "Skybags",
+      "product_name": "Kids Graphic Printed Backpack",
+      "size": "Onesize",
+      "price": "Rs. 703",
+      "strike_price": "Rs. 2198",
+      "discount_percentage": "(68% OFF)",
+      "rating": "4.5",
+      "ratings_count": "823"
+    },
+    {
+      "id": "258",
+      "base_href": "https://www.myntra.com/backpacks/gear/gear-kids-printbackpack/23285384/buy",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23285384/2023/2/7/0598d0c1-2c42-40ee-b21f-370d5de93d051674113185442-GEAR-GALAXY-14L-BACKPACK-PINK-6641674113185037-1.jpg",
+      "brand": "Gear",
+      "product_name": "Kids Print Backpack",
+      "size": "Onesize",
+      "price": "Rs. 745",
+      "strike_price": "Rs. 1399",
+      "discount_percentage": "(47% OFF)",
+      "rating": "4.4",
+      "ratings_count": "141"
+    }
+  ],
+  "kids-jacket": [
+    {
+      "id": "259",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27030684/2024/6/21/2028eae6-540d-479d-9787-4088710126771718969500537-NEXT-Boys-Placement-Print-Pure-Cotton-Sweatshirt-67117189695-1.jpg",
+      "name": "Boys Pure Cotton Sweatshirt",
+      "price": "Rs. 743",
+      "brand": "NEXT",
+      "rating": "4.2"
+    },
+    {
+      "id": "260",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26700684/2023/12/28/94dc8fd2-fc5c-47f8-b696-2d0f5933f4ae1703746878993INCLUDBoysBlueLightweightBomberJacket1.jpg",
+      "name": "Stand Collar Bomber Jacket",
+      "price": "Rs. 853",
+      "brand": "INCLUD",
+      "rating": "4.0"
+    },
+    {
+      "id": "261",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25840958/2023/11/10/15ad3970-56db-40b9-8876-4a096abaca8c1699605329385BoysCableKnitSweater1.jpg",
+      "name": "Boys Self Design Pullover",
+      "price": "Rs. 719",
+      "brand": "max",
+      "rating": "3.8"
+    },
+    {
+      "id": "262",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25672438/2023/10/28/57927641-38f2-424c-8c99-d6918bd6db921698505303161BoysBlue-WhiteJacquard-KnitChrist-MassAcrylicPulloverSweater1.jpg",
+      "name": "Boys Printed Acrylic Sweater",
+      "price": "Rs. 433",
+      "brand": "Nauti Nati",
+      "rating": "4.4"
+    },
+    {
+      "id": "263",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25226080/2023/9/28/cec5a85c-bdc4-4c73-b971-21a3af1fb3df1695924521466maxBoysNavyBlueWhiteStripedPullover1.jpg",
+      "name": "Boys Striped Pullover Sweaters",
+      "price": "Rs. 559",
+      "brand": "max",
+      "rating": "4.6"
+    },
+    {
+      "id": "264",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26018486/2023/11/23/ca492b5f-941d-4e80-b0ad-5f1af0eba82a1700761150662BoysFairIsleKnittedSweater1.jpg",
+      "name": "Boys Self Design Pullover",
+      "price": "Rs. 799",
+      "brand": "max",
+      "rating": "4.0"
+    },
+    {
+      "id": "265",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19888440/2022/9/22/53a46494-12ea-48b8-a298-3880ea5773131663840288007-HELLCAT-Boys-Set-Of-2-Blue--Pink-Colourblocked-Hooded-Sweats-7.jpg",
+      "name": "Set Of 2 Boys Sweatshirt",
+      "price": "Rs. 679",
+      "brand": "HELLCAT",
+      "rating": "3.9"
+    },
+    {
+      "id": "266",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24784942/2023/9/2/619798be-8c87-43b1-841d-d976e52a00721693667085705HELLCATBoysNavyBluePrintedHoodedSweatshirt1.jpg",
+      "name": "Boys Pack Of 2 Sweatshirt",
+      "price": "Rs. 679",
+      "brand": "HELLCAT",
+      "rating": "3.8"
+    },
+    {
+      "id": "267",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30154381/2024/7/9/01503596-d7c7-45f4-abca-b754b1e34f231720488114302HMBoysCottonSweatshirts1.jpg",
+      "name": "Boys Cotton Sweatshirts",
+      "price": "Rs. 259",
+      "brand": "H&M",
+      "rating": "3.9"
+    },
+    {
+      "id": "268",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19625614/2022/8/23/88b717c6-4416-45a5-8629-92ba439d75311661273744317Sweatshirts1.jpg",
+      "name": "Boys Sweatshirt",
+      "price": "Rs. 799",
+      "brand": "Jack & Jones Junior",
+      "rating": "4.4"
+    },
+    {
+      "id": "269",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27831456/2024/2/24/29dbcebc-4a57-4b77-a659-e9868d4544d41708773854616TALESSTORIESBoysWashedCropDenimJacketwithEmbroidered7.jpg",
+      "name": "Boys Washed Crop Denim Jacket",
+      "price": "Rs. 703",
+      "brand": "TALES & STORIES",
+      "rating": "4.7"
+    },
+    {
+      "id": "270",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27303764/2024/1/31/e135907c-e456-4783-a226-dcd2109b87b51706712012883INCLUDBoysCropOpenFrontJacket1.jpg",
+      "name": "Boys Hooded Open Front Jacket",
+      "price": "Rs. 825",
+      "brand": "INCLUD",
+      "rating": "4"
+    },
+    {
+      "id": "271",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30154313/2024/7/8/c9b726d4-5b9b-4021-8c3c-b5f4996989f81720458247892HMBoysStripedSweatshirt1.jpg",
+      "name": "Boys Striped Sweatshirt",
+      "price": "Rs. 1199",
+      "brand": "H&M",
+      "rating": "4.6"
+    },
+    {
+      "id": "272",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26232150/2023/12/4/7ccf9a0e-9bbf-46e1-be15-f94f49595d431701711073542MINIKLUBBoysRedPrintedSweatshirt2.jpg",
+      "name": "Boys Printed Sweatshirt",
+      "price": "Rs. 573",
+      "brand": "MINI KLUB",
+      "rating": "4.3"
+    },
+    {
+      "id": "273",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26216384/2024/1/10/7e17157a-2a66-4e58-8620-399b5dbba43b1704879163682-HERENOW-Boys-Jackets-2181704879163393-1.jpg",
+      "name": "Denim Jacket",
+      "price": "Rs. 989",
+      "brand": "HERE&NOW",
+      "rating": "4"
+    },
+    {
+      "id": "274",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26550392/2023/12/20/0af4835d-c79e-40bb-9eee-4bcfb50b37ef1703060388551GiniandJonyBoysBlackLongSleevesFashionJacket1.jpg",
+      "name": "Boys Open Front Jacket",
+      "price": "Rs. 911",
+      "brand": "Gini and Jony",
+      "rating": "4.3"
+    },
+    {
+      "id": "275",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25672438/2023/10/28/57927641-38f2-424c-8c99-d6918bd6db921698505303161BoysBlue-WhiteJacquard-KnitChrist-MassAcrylicPulloverSweater1.jpg",
+      "name": "Boys Graphic Print Sweatshirt",
+      "price": "Rs. 759",
+      "brand": "Jack & Jones Junior",
+      "rating": "4.4"
+    },
+    {
+      "id": "276",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26078800/2023/11/27/b1ff6945-384b-4bf5-a090-d3d2a07ec1e81701091124225BAESDBoysBlackPrintedHoodedSweatshirt1.jpg",
+      "name": "Boys Cropped Denim Jacket",
+      "price": "Rs. 786",
+      "brand": "INCLUD",
+      "rating": "4.6"
+    },
+    {
+      "id": "277",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27030684/2024/6/21/2028eae6-540d-479d-9787-4088710126771718969500537-NEXT-Boys-Placement-Print-Pure-Cotton-Sweatshirt-67117189695-1.jpg",
+      "name": "Boys Hooded Sweatshirt",
+      "price": "Rs. 659",
+      "brand": "Rocky",
+      "rating": "4.2"
+    }
+  ],
+  "face-wash": [
+    {
+      "id": "278",
+      "rating": 4.5,
+      "price": "Rs. 584",
+      "name": "Oily Skin Cleanser - 125 ml",
+      "brand": "Cetaphil",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16712224/2023/8/9/6b04ac13-d313-4901-a772-ee339c0603791691581955267-Cetaphil-Oily-Skin-Cleanser-for-Sensitive-Skin---125-ml-7661-1.jpg"
+    },
+    {
+      "id": "279",
+      "rating": 4.3,
+      "price": "Rs. 159",
+      "name": "Fruit Brightening Face Wash",
+      "brand": "Biotique",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9314855/2023/12/11/5c34cfe7-a9ce-4721-b43f-163ef81b01b11702294090636BiotiquePureNaturalFruitBrighteningFaceWash-200ml1.jpg"
+    },
+    {
+      "id": "280",
+      "rating": null,
+      "price": "Rs. 255",
+      "name": "2Pcs Young Plus Face Wash",
+      "brand": "THE SOUMI'S CAN PRODUCT",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30292230/2024/7/22/2de8b87d-3470-4336-8b7d-f92d204f96d31721632609906THESOUMISCANPRODUCTSetOf2YoungPlusFaceWash-100mlEach1.jpg"
+    },
+    {
+      "id": "281",
+      "rating": 4.6,
+      "price": "Rs. 336",
+      "name": "Men 3Pcs Dark Spot Face Wash",
+      "brand": "Nivea",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23167858/2024/1/10/6a4ee65b-cf17-481c-8300-b3e19ab623461704882809974-Nivea-Men-Set-of-3-Dark-Spot-Reduction-Face-Wash-with-10X-Vi-1.jpg"
+    },
+    {
+      "id": "282",
+      "rating": 4.5,
+      "price": "Rs. 616",
+      "name": "Bright Healthy Creamy Cleanser",
+      "brand": "Cetaphil",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20628106/2023/10/4/a2102143-25ad-4d70-90ac-5bf2709dd79a1696414159395-Cetaphil-Bright-Healthy-Radiance-Brightness-Reveal-Creamy-Cl-1.jpg"
+    },
+    {
+      "id": "283",
+      "rating": 4.5,
+      "price": "Rs. 326",
+      "name": "Set of 6 Gulabari Cleanser",
+      "brand": "Dabur",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27135904/2024/1/24/c867adb5-c622-40ac-a3ed-f6af38b808401706076672167DeodorantDenverMenDeodorantDenverMenDeodorantDenverMenDeodor1.jpg"
+    },
+    {
+      "id": "284",
+      "rating": 4.4,
+      "price": "Rs. 284",
+      "name": "Salicylic Face Wash",
+      "brand": "Minimalist",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14669014/2023/9/6/12adc15e-a720-48e0-a32e-4292b4f694431693992394603-Minimalist-2-Salicylic-Acid-Face-Wash-With-LHA-100-ml-181169-1.jpg"
+    },
+    {
+      "id": "285",
+      "rating": 4.5,
+      "price": "Rs. 149",
+      "name": "Hydra Light Gel Face Wash",
+      "brand": "Ponds",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24822096/2023/9/28/db902acd-fbd4-4173-a0d8-6c7c561863d11695883297769FaceWashandCleanserPondsWomen1.jpg"
+    },
+    {
+      "id": "286",
+      "rating": 4.5,
+      "price": "Rs. 327",
+      "name": "Purifying Neem Face Wash 400ml",
+      "brand": "Himalaya",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19258114/2023/7/5/1122dd46-4dd5-4ca3-8a07-7ee605e84ed71688538257660-Himalaya-Anti-Pimple-Purifying-Neem-Face-Wash-with-Turmeric--1.jpg"
+    },
+    {
+      "id": "287",
+      "rating": 4.4,
+      "price": "Rs. 219",
+      "name": "Sali-Cinamide Face Wash 100ml",
+      "brand": "The Derma co.",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22968320/2023/5/2/2b90f8a0-6556-4bfc-aec2-ea383f3f9fd91683004597458FaceWashandCleanser1.jpg"
+    },
+    {
+      "id": "288",
+      "rating": 4.5,
+      "price": "Rs. 414",
+      "name": "2Pcs Rice Face Wash",
+      "brand": "Mamaearth",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27435358/2024/2/14/d0dbb00a-1d53-4a81-b7fa-9924f8fefe261707896013254-Mamaearth-Set-Of-2-Rice-Face-Wash-For-Glass-Glow-with-Niacin-1.jpg"
+    },
+    {
+      "id": "289",
+      "rating": 4.8,
+      "price": "Rs. 374",
+      "name": "Women Walnut Foaming Face Wash",
+      "brand": "PROVALO",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18925602/2023/6/23/642b086d-2648-45da-a7c0-8fe35419160d1687494512322-PROVALO-Women-Vegan-Walnut-Acne-Control--Pimple-Care-Foaming-1.jpg"
+    },
+    {
+      "id": "290",
+      "rating": 4.5,
+      "price": "Rs. 289",
+      "name": "Set of 2 Ubtan Face Wash",
+      "brand": "JOY",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18534042/2024/7/23/7fc446b7-370c-45f5-848b-eaefb2f078981721730341268-JOY-Set-of-2-Tan-Removal-Ubtan-Face-Wash-For-Bright--Glowing-1.jpg"
+    },
+    {
+      "id": "291",
+      "rating": 4.4,
+      "price": "Rs. 220",
+      "name": "Beetroot Gentle Face Wash",
+      "brand": "Mamaearth",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27385400/2024/2/5/c2e73843-807a-4567-843c-b3eedcbd8e0a1707136443810beetrootfacewash100ml1.jpg"
+    },
+    {
+      "id": "292",
+      "rating": null,
+      "price": "Rs. 306",
+      "name": "Rose Face Wash 100ml",
+      "brand": "teal & terra",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/30129814/2024/7/4/ff52b934-569f-4a85-9f3e-53141c5b50081720097269614FaceWashandCleanser1.jpg"
+    },
+    {
+      "id": "293",
+      "rating": 4.6,
+      "price": "Rs. 261",
+      "name": "Brightening Face Wash",
+      "brand": "Neutrogena",
+      "image": "https://m.media-amazon.com/images/I/51+8qn67b0L.jpg"
+    },
+    {
+      "id": "294",
+      "rating": 4.6,
+      "price": "Rs. 391",
+      "name": "2Pcs Face Wash - 100 ml Each",
+      "brand": "Minimalist",
+      "image": "https://www.mcaffeine.com/cdn/shop/products/1_3_44dacc57-22ab-40f8-955c-4acb9b9f60d2.jpg?v=1679385937"
+    }
+  ],
+  "perfumes": [
+    {
+      "id": "295",
+      "url": "https://www.tatacliq.com/nautica-voyage-man-eau-de-toilette-for-men--100-ml/p-mp000000007904541",
+      "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000007904541_437Wx649H_202407190008541.jpeg",
+      "brand": "Nautica",
+      "name": "Nautica Voyage Man Eau de Toilette for Men - 100 ml",
+      "price": "₹2145",
+      "original_price": "₹3900",
+      "discount": "45% off",
+      "rating": 4.1,
+      "reviews": 155
+    },
+    {
+      "id": "296",
+      "url": "https://www.tatacliq.com/carolina-herrera-new-york-good-girl-blush-elixir-eau-de-parfum-for-women--30-ml/p-mp000000022042206",
+      "image": "https://img.tatacliq.com/images/i17//437Wx649H/MP000000022042206_437Wx649H_202404251726311.jpeg",
+      "brand": "Carolina Herrera",
+      "name": "Carolina Herrera New York Good Girl Blush Elixir Eau de Parfum for Women - 30 ml",
+      "price": "₹6400",
+      "stock": "Limited stock!"
+    },
+    {
+      "id": "297",
+      "url": "https://www.tatacliq.com/guess-1981-indigo-eau-de-toilette-for-women--100-ml/p-mp000000007904188",
+      "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000007904188_437Wx649H_202407190006061.jpeg",
+      "brand": "GUESS",
+      "name": "Guess 1981 Indigo Eau de Toilette for Women - 100 ml",
+      "price": "₹2550",
+      "original_price": "₹5100",
+      "discount": "50% off",
+      "rating": 4,
+      "reviews": 1
+    },
+    {
+      "id": "298",
+      "url": "https://www.tatacliq.com/mercedes-benz-cologne-eau-de-toilette-for-men--40-ml/p-mp000000015285441",
+      "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000015285441_437Wx649H_202407190005101.jpeg",
+      "brand": "Mercedes-Benz",
+      "name": "MERCEDES-BENZ Cologne Eau De Toilette for Men - 40 ml",
+      "price": "₹2940",
+      "original_price": "₹4900",
+      "discount": "40% off"
+    },
+    {
+      "id": "299",
+      "url": "https://www.tatacliq.com/jaguar-classic-chromite-eau-de-toilette-for-men--100-ml/p-mp000000007906642",
+      "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000007906642_437Wx649H_202407190006141.jpeg",
+      "brand": "JAGUAR",
+      "name": "Jaguar Classic Chromite Eau de Toilette for Men - 100 ml",
+      "price": "₹2255",
+      "original_price": "₹4100",
+      "discount": "45% off",
+      "rating": 4.1,
+      "reviews": 65
+    },
+    {
+      "id": "300",
+      "url": "https://www.tatacliq.com/jaguar-classic-black-eau-de-toilette-for-men--100-ml/p-mp000000007906649",
+      "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000007906649_437Wx649H_202407190006081.jpeg",
+      "brand": "JAGUAR",
+      "name": "Jaguar Classic Black Eau de Toilette for Men - 100 ml",
+      "price": "₹4850"
+    },
+    {
+      "id": "301",
+      "url": "https://www.tatacliq.com/calvin-klein-one-eau-de-toilette-100-ml-unisex/p-mp000000010817258",
+      "image": "https://img.tatacliq.com/images/i17//437Wx649H/MP000000010817258_437Wx649H_202405110950261.jpeg",
+      "brand": "CALVIN KLEIN",
+      "name": "Calvin Klein One Eau de Toilette 100 ml (Unisex)",
+      "price": "₹2050",
+      "original_price": "₹4100",
+      "discount": "50% off",
+      "rating": 4,
+      "reviews": 228
+    },
+    {
+      "id": "302",
+      "url": "https://www.tatacliq.com/jaguar-classic-gold-eau-de-toilette-for-men--100-ml/p-mp000000007906656",
+      "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000007906656_437Wx649H_202407190006551.jpeg",
+      "brand": "JAGUAR",
+      "name": "Jaguar Classic Gold Eau de Toilette for Men - 100 ml",
+      "price": "₹2665",
+      "original_price": "₹4100",
+      "discount": "35% off",
+      "rating": 3.9,
+      "reviews": 26
+    },
+    {
+      "id": "303",
+      "url": "https://www.tatacliq.com/tommy-hilfiger-eau-de-toilette-for-men--100-ml/p-mp000000007904643",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000007904643_437Wx649H_202206152345171.jpeg",
+      "brand": "TOMMY HILFIGER",
+      "name": "Tommy Hilfiger Eau de Toilette for Men - 100 ml",
+      "price": "₹4200",
+      "original_price": "₹7000",
+      "discount": "40% off",
+      "rating": 4.2,
+      "reviews": 53
+    },
+    {
+      "id": "304",
+      "url": "https://www.tatacliq.com/carolina-herrera-212-vip-rose-eau-de-perfum--80-ml/p-mp000000012014080",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012014080_437Wx649H_202208061848511.jpeg",
+      "brand": "Carolina Herrera",
+      "name": "Carolina Herrera 212 Vip Rose Eau De Perfum - 80 ml",
+      "price": "₹9590",
+      "stock": "Limited stock!"
+    },
+    {
+      "id": "305",
+      "url": "https://www.tatacliq.com/playboy-you-2-0-loading-eau-de-toilette-for-him--100-ml/p-mp000000014204079",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014204079_437Wx649H_202208231321051.jpeg",
+      "brand": "Playboy",
+      "name": "Playboy You 2.0 Loading Eau de Toilette for Him - 100 ml",
+      "price": "₹644",
+      "original_price": "₹990",
+      "discount": "35% off",
+      "rating": 5,
+      "reviews": 1
+    },
+    {
+      "id": "306",
+      "url": "https://www.tatacliq.com/playboy-you-2-0-loading-eau-de-toilette-for-her--60-ml/p-mp000000014204080",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014204080_437Wx649H_202208231321051.jpeg",
+      "brand": "Playboy",
+      "name": "Playboy You 2.0 Loading Eau de Toilette For Her - 60 ml",
+      "price": "₹545",
+      "original_price": "₹990",
+      "discount": "45% off",
+      "rating": 3.5,
+      "reviews": 13
+    },
+    {
+      "id": "307",
+      "url": "https://www.tatacliq.com/tommy-hilfiger-tommy-now-eau-de-toilette-for-men--100-ml/p-mp000000007904706",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000007904706_437Wx649H_202206152348021.jpeg",
+      "brand": "TOMMY HILFIGER",
+      "name": "Tommy Hilfiger Tommy Now Eau de Toilette for Men - 100 ml",
+      "price": "₹3480",
+      "original_price": "₹5800",
+      "discount": "40% off",
+      "rating": 4.3,
+      "reviews": 53
+    },
+    {
+      "id": "308",
+      "url": "https://www.tatacliq.com/skinn-by-titan-celeste-eau-de-parfum-for-women--50-ml/p-mp000000014296654",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000007907129_437Wx649H_202205180801541.jpeg",
+      "brand": "Skinn By Titan",
+      "name": "Skinn By Titan Celeste Eau de Parfum for Women - 50 ml",
+      "price": "₹2096",
+      "original_price": "₹2620",
+      "discount": "20% off",
+      "rating": 4.5,
+      "reviews": 65
+    },
+    {
+      "id": "309",
+      "url": "https://www.tatacliq.com/calvin-klein-euphoria-men-intense-eau-de-toilette-for-men--100ml/p-mp000000023874532",
+      "image": "https://img.tatacliq.com/images/i17//437Wx649H/MP000000010817258_437Wx649H_202405110950261.jpeg",
+      "brand": "Calvin Klein",
+      "name": "Calvin Klein Euphoria Men Intense Eau De Toilette For Men - 100ml",
+      "price": "₹4920",
+      "stock": "Limited stock!"
+    },
+    {
+      "id": "310",
+      "url": "https://www.tatacliq.com/david-beckham-intimately-eau-de-toilette-for-men--75-ml/p-mp000000007903678",
+      "image": "https://img.tatacliq.com/images/i14/437Wx649H/MP000000019660949_437Wx649H_202310141704031.jpeg",
+      "brand": "DAVID BECKHAM",
+      "name": "David Beckham Intimately Eau de Toilette for Men - 75 ml",
+      "price": "₹1555",
+      "original_price": "₹2750",
+      "discount": "43% off",
+      "rating": 4.2,
+      "reviews": 14
+    },
+    {
+      "id": "311",
+      "url": "https://www.tatacliq.com/tommy-hilfiger-impact-intense-eau-de-parfum-for-men--100-ml/p-mp000000015527085",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000007904706_437Wx649H_202206152348021.jpeg",
+      "brand": "Tommy Hilfiger",
+      "name": "Tommy Hilfiger Impact Intense Eau De Parfum For Men - 100 ml",
+      "price": "₹5490",
+      "stock": "Limited stock!"
+    }
+  ],
+  "beauty": [
+    {
+      "id": "312",
+      "name": "Olaplex No. 4 Bond Maintenance Shampoo - 250 ml",
+      "brand": "Olaplex Inc.",
+      "price": "₹3200",
+      "rating": 5,
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017400792_437Wx649H_202305121613471.jpeg",
+      "link": "https://www.tatacliq.com/olaplex-no-4-bond-maintenance-shampoo--250-ml/p-mp000000017400792"
+    },
+    {
+      "id": "313",
+      "name": "Dr. Batra's Dandruff Cleansing Shampoo (Pack of 2)",
+      "brand": "Dr. Batra's",
+      "price": "₹372",
+      "discounted_price": "₹438",
+      "discount_percent": "15% off",
+      "rating": 3.4,
+      "reviews": 32,
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000009202554_437Wx649H_202307071653451.jpeg",
+      "link": "https://www.tatacliq.com/dr-batras-dandruff-cleansing-shampoo-pack-of-2/p-mp000000009202554"
+    },
+    {
+      "id": "314",
+      "name": "Dr. Batra's Dandruff Cleansing Shampoo - 200 ml",
+      "brand": "Dr. Batra's",
+      "price": "₹186",
+      "discounted_price": "₹219",
+      "discount_percent": "15% off",
+      "rating": 3.9,
+      "reviews": 29,
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000009229859_437Wx649H_202305302348321.jpeg",
+      "link": "https://www.tatacliq.com/dr-batras-dandruff-cleansing-shampoo--200-ml/p-mp000000009229859"
+    },
+    {
+      "id": "315",
+      "name": "L'Oreal Paris Total Repair 5 Restoring Conditioner with Keratin XS - 180 ml",
+      "brand": "L'Oreal Paris",
+      "price": "₹201",
+      "discounted_price": "₹229",
+      "discount_percent": "12% off",
+      "rating": 4.4,
+      "reviews": 24,
+      "image": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000011647427_437Wx649H_202401101655211.jpeg",
+      "link": "https://www.tatacliq.com/loreal-paris-total-repair-5-restoring-conditioner-with-keratin-xs--180-ml/p-mp000000011647427"
+    },
+    {
+      "id": "316",
+      "name": "L'Oreal Paris Colour Protect Shampoo - 192.5 ml",
+      "brand": "L'Oreal Paris",
+      "price": "₹209",
+      "rating": 4,
+      "reviews": 2,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012665443_437Wx649H_202203310825001.jpeg",
+      "link": "https://www.tatacliq.com/loreal-paris-colour-protect-shampoo--192-5-ml/p-mp000000012665443"
+    },
+    {
+      "id": "317",
+      "name": "Schwarzkopf Professional Bonacure Repair Rescue Shampoo with Arginine - 1000 ml",
+      "brand": "Schwarzkopf Professional",
+      "price": "₹920",
+      "discounted_price": "₹1150",
+      "discount_percent": "20% off",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000017875552_437Wx649H_202309021959421.jpeg",
+      "link": "https://www.tatacliq.com/schwarzkopf-professional-bonacure-repair-rescue-shampoo-with-arginine--1000-ml/p-mp000000017875552"
+    },
+    {
+      "id": "318",
+      "name": "Schwarzkopf Professional Bonacure Repair Rescue Shampoo with Arginine - 250 ml",
+      "brand": "Schwarzkopf Professional",
+      "price": "₹301",
+      "discounted_price": "₹450",
+      "discount_percent": "33% off",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000017875551_437Wx649H_202309021958541.jpeg",
+      "link": "https://www.tatacliq.com/schwarzkopf-professional-bonacure-repair-rescue-shampoo-with-arginine--250-ml/p-mp000000017875551"
+    },
+    {
+      "id": "319",
+      "name": "Schwarzkopf Professional Bonacure Repair Rescue Shampoo with Arginine - 50 ml",
+      "brand": "Schwarzkopf Professional",
+      "price": "₹1975",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000017875532_437Wx649H_202309021959021.jpeg",
+      "link": "https://www.tatacliq.com/schwarzkopf-professional-bonacure-repair-rescue-shampoo-with-arginine--50-ml/p-mp000000017875532"
+    },
+    {
+      "id": "320",
+      "name": "Mamaearth Onion Conditioner - 400 ml",
+      "brand": "Mamaearth",
+      "price": "₹1980",
+      "rating": 3.8,
+      "reviews": 22,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008451549_437Wx649H_202205012115541.jpeg",
+      "link": "https://www.tatacliq.com/mamaearth-onion-conditioner--400-ml/p-mp000000008451549"
+    },
+    {
+      "id": "321",
+      "name": "Mamaearth Onion Hair Fall Shampoo - 250 ml",
+      "brand": "Mamaearth",
+      "price": "₹279",
+      "discounted_price": "₹349",
+      "discount_percent": "20% off",
+      "rating": 4,
+      "reviews": 120,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008451555_437Wx649H_202204301726461.jpeg",
+      "link": "https://www.tatacliq.com/mamaearth-onion-hair-fall-shampoo--250-ml/p-mp000000008451555"
+    },
+    {
+      "id": "322",
+      "url": "https://www.tatacliq.com/garnier-men-acno-fight-face-wash-for-pimple-acne-prone-skin--150-gm-pack-of-2/p-mp000000012666171",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012666171_437Wx649H_202207131148511.jpeg",
+      "name": "Garnier Men Acno Fight Face Wash for Pimple & Acne Prone Skin - 150 gm (Pack of 2)",
+      "brand": "Garnier",
+      "price": "₹606",
+      "rating": 5
+    },
+    {
+      "id": "323",
+      "url": "https://www.tatacliq.com/bombay-shaving-company-shaving-brush--polished-black-handle/p-mp000000008877218",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008877218_437Wx649H_202205220659301.jpeg",
+      "name": "Bombay Shaving Company Shaving Brush - Polished Black Handle",
+      "brand": "Bombay Shaving Company",
+      "price": "₹499",
+      "rating": 4.1
+    },
+    {
+      "id": "324",
+      "url": "https://www.tatacliq.com/garnier-oil-clear-face-wash-oil-control-deep-cleansing-face-wash-for-men--150-gm-pack-of-2/p-mp000000012666184",
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000012666184_437Wx649H_202305071654101.jpeg",
+      "name": "Garnier Oil Clear Face Wash Oil Control Deep Cleansing Face Wash for Men - 150 gm (Pack of 2)",
+      "brand": "Garnier",
+      "price": "₹533",
+      "rating": 5
+    },
+    {
+      "id": "325",
+      "url": "https://www.tatacliq.com/ustraa-beard-growth-supplement--60-ml/p-mp000000008519396",
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008519396_437Wx649H_202203051638401.jpeg",
+      "name": "Ustraa Beard Growth Supplement - 60 ml",
+      "brand": "Ustraa",
+      "price": "₹675",
+      "rating": 5
+    },
+    {
+      "id": "326",
+      "url": "https://www.tatacliq.com/bombay-shaving-company-beard-shaper-tool--black/p-mp000000008877213",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008877213_437Wx649H_202205220651251.jpeg",
+      "name": "Bombay Shaving Company Beard Shaper Tool - Black",
+      "brand": "Bombay Shaving Company",
+      "price": "₹269",
+      "rating": 3.5
+    }
+  ],
+  "shampoo": [
+    {
+      "id": "327",
+      "name": "Olaplex No. 4 Bond Maintenance Shampoo - 250 ml",
+      "brand": "Olaplex Inc.",
+      "price": "₹3200",
+      "rating": 5,
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017400792_437Wx649H_202305121613471.jpeg",
+      "link": "https://www.tatacliq.com/olaplex-no-4-bond-maintenance-shampoo--250-ml/p-mp000000017400792"
+    },
+    {
+      "id": "328",
+      "name": "Dr. Batra's Dandruff Cleansing Shampoo (Pack of 2)",
+      "brand": "Dr. Batra's",
+      "price": "₹372",
+      "discounted_price": "₹438",
+      "discount_percent": "15% off",
+      "rating": 3.4,
+      "reviews": 32,
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000009202554_437Wx649H_202307071653451.jpeg",
+      "link": "https://www.tatacliq.com/dr-batras-dandruff-cleansing-shampoo-pack-of-2/p-mp000000009202554"
+    },
+    {
+      "id": "329",
+      "name": "Dr. Batra's Dandruff Cleansing Shampoo - 200 ml",
+      "brand": "Dr. Batra's",
+      "price": "₹186",
+      "discounted_price": "₹219",
+      "discount_percent": "15% off",
+      "rating": 3.9,
+      "reviews": 29,
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000009229859_437Wx649H_202305302348321.jpeg",
+      "link": "https://www.tatacliq.com/dr-batras-dandruff-cleansing-shampoo--200-ml/p-mp000000009229859"
+    },
+    {
+      "id": "330",
+      "name": "L'Oreal Paris Total Repair 5 Restoring Conditioner with Keratin XS - 180 ml",
+      "brand": "L'Oreal Paris",
+      "price": "₹201",
+      "discounted_price": "₹229",
+      "discount_percent": "12% off",
+      "rating": 4.4,
+      "reviews": 24,
+      "image": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000011647427_437Wx649H_202401101655211.jpeg",
+      "link": "https://www.tatacliq.com/loreal-paris-total-repair-5-restoring-conditioner-with-keratin-xs--180-ml/p-mp000000011647427"
+    },
+    {
+      "id": "331",
+      "name": "L'Oreal Paris Colour Protect Shampoo - 192.5 ml",
+      "brand": "L'Oreal Paris",
+      "price": "₹209",
+      "rating": 4,
+      "reviews": 2,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012665443_437Wx649H_202203310825001.jpeg",
+      "link": "https://www.tatacliq.com/loreal-paris-colour-protect-shampoo--192-5-ml/p-mp000000012665443"
+    },
+    {
+      "id": "332",
+      "name": "Schwarzkopf Professional Bonacure Repair Rescue Shampoo with Arginine - 1000 ml",
+      "brand": "Schwarzkopf Professional",
+      "price": "₹920",
+      "discounted_price": "₹1150",
+      "discount_percent": "20% off",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000017875552_437Wx649H_202309021959421.jpeg",
+      "link": "https://www.tatacliq.com/schwarzkopf-professional-bonacure-repair-rescue-shampoo-with-arginine--1000-ml/p-mp000000017875552"
+    },
+    {
+      "id": "333",
+      "name": "Schwarzkopf Professional Bonacure Repair Rescue Shampoo with Arginine - 250 ml",
+      "brand": "Schwarzkopf Professional",
+      "price": "₹301",
+      "discounted_price": "₹450",
+      "discount_percent": "33% off",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000017875551_437Wx649H_202309021958541.jpeg",
+      "link": "https://www.tatacliq.com/schwarzkopf-professional-bonacure-repair-rescue-shampoo-with-arginine--250-ml/p-mp000000017875551"
+    },
+    {
+      "id": "334",
+      "name": "Schwarzkopf Professional Bonacure Repair Rescue Shampoo with Arginine - 50 ml",
+      "brand": "Schwarzkopf Professional",
+      "price": "₹1975",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000017875532_437Wx649H_202309021959021.jpeg",
+      "link": "https://www.tatacliq.com/schwarzkopf-professional-bonacure-repair-rescue-shampoo-with-arginine--50-ml/p-mp000000017875532"
+    },
+    {
+      "id": "335",
+      "name": "Mamaearth Onion Conditioner - 400 ml",
+      "brand": "Mamaearth",
+      "price": "₹1980",
+      "rating": 3.8,
+      "reviews": 22,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008451549_437Wx649H_202205012115541.jpeg",
+      "link": "https://www.tatacliq.com/mamaearth-onion-conditioner--400-ml/p-mp000000008451549"
+    },
+    {
+      "id": "336",
+      "name": "Mamaearth Onion Hair Fall Shampoo - 250 ml",
+      "brand": "Mamaearth",
+      "price": "₹279",
+      "discounted_price": "₹349",
+      "discount_percent": "20% off",
+      "rating": 4,
+      "reviews": 120,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008451555_437Wx649H_202204301726461.jpeg",
+      "link": "https://www.tatacliq.com/mamaearth-onion-hair-fall-shampoo--250-ml/p-mp000000008451555"
+    },
+    {
+      "id": "337",
+      "name": "Arata Advanced Curl Care Shampoo - 300 ml",
+      "brand": "Arata",
+      "price": "₹279",
+      "discounted_price": "₹349",
+      "discount_percent": "20% off",
+      "image": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000020397240_437Wx649H_202312091242171.jpeg",
+      "link": "https://www.tatacliq.com/arata-advanced-curl-care-shampoo--300-ml/p-mp000000020397240"
+    },
+    {
+      "id": "338",
+      "name": "BIOTOP Professional 911 Quinoa Nourishing Conditioner - 250 ml",
+      "brand": "BIOTOP",
+      "price": "₹539",
+      "discounted_price": "₹899",
+      "discount_percent": "40% off",
+      "image": "https://img.tatacliq.com/images/i16//437Wx649H/MP000000020907417_437Wx649H_202401241127031.jpeg",
+      "link": "https://www.tatacliq.com/biotop-professional-911-quinoa-nourishing-conditioner--250-ml/p-mp000000020907417"
+    },
+    {
+      "id": "339",
+      "name": "L'Oreal Paris Extraordinary Oil Nourishing Shampoo for Dry & Dull Hair - 1000 ml",
+      "brand": "L'Oreal Paris",
+      "price": "₹1975",
+      "rating": 4.1,
+      "reviews": 21,
+      "image": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000011647761_437Wx649H_202312141643531.jpeg",
+      "link": "https://www.tatacliq.com/loreal-paris-extraordinary-oil-nourishing-shampoo-for-dry-dull-hair--1000-ml/p-mp000000011647761"
+    },
+    {
+      "id": "340",
+      "name": "Tresemme Hair Fall Defense Conditioner - 190 ml",
+      "brand": "Tresemme",
+      "price": "₹790",
+      "discounted_price": "₹1129",
+      "discount_percent": "30% off",
+      "rating": 4.8,
+      "reviews": 10,
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000008819990_437Wx649H_202307041909331.jpeg",
+      "link": "https://www.tatacliq.com/tresemme-hair-fall-defense-conditioner--190-ml/p-mp000000008819990"
+    },
+    {
+      "id": "341",
+      "name": "Olaplex No. 5 Bond Maintenance Conditioner - 250 ml",
+      "brand": "Olaplex",
+      "price": "₹3200",
+      "rating": 4.8,
+      "reviews": 15,
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017334888_437Wx649H_202305121606231.jpeg",
+      "link": "https://www.tatacliq.com/olaplex-no-5-bond-maintenance-conditioner--250-ml/p-mp000000017400794"
+    }
+  ],
+  "home-kitchen": [
+    {
+      "id": "342",
+      "url": "https://www.tatacliq.com/haus-kinder-white-purple-cotton-186-tc-lilac-dream-printed-double-bedsheet-with-2-pillow-covers/p-mp000000019773151",
+      "image": "https://img.tatacliq.com/images/i14/437Wx649H/MP000000019773151_437Wx649H_202310211411521.jpeg",
+      "brand": "Haus & Kinder",
+      "name": "Haus & Kinder White & Purple Cotton 186 TC Lilac Dream Printed Double Bedsheet with 2 Pillow Covers",
+      "price": "₹999",
+      "discount_price": "₹1999",
+      "discount": "50% off",
+      "rating": "4.8",
+      "reviews": "(5)"
+    },
+    {
+      "id": "343",
+      "url": "https://www.tatacliq.com/urban-space-ac-multicolor-microfibre-300-gsm-3-layer-reversible-single-blanket/p-mp000000019117342",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000019117342_437Wx649H_202309081035231.jpeg",
+      "brand": "Urban Space",
+      "name": "Urban Space AC Multicolor Microfibre 300 GSM 3 Layer Reversible Single Blanket",
+      "price": "₹1299",
+      "discount_price": "₹2999",
+      "discount": "57% off",
+      "rating": "4.5",
+      "reviews": "(8)"
+    },
+    {
+      "id": "344",
+      "url": "https://www.tatacliq.com/homesake-brown-white-wood-gooseneck-wall-lamp--set-of-1-bulb-not-included/p-mp000000010726173",
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010726173_437Wx649H_202109260201161.jpeg",
+      "brand": "Homesake",
+      "name": "Homesake Brown & White Wood Gooseneck Wall Lamp - Set of 1 (Bulb not included)",
+      "price": "₹464",
+      "discount_price": "₹2000",
+      "discount": "77% off",
+      "rating": "3.7",
+      "reviews": "(190)"
+    },
+    {
+      "id": "345",
+      "url": "https://www.tatacliq.com/homesake-gold-metal-modern-antique-industrial-box-shaped-outdoor-wall-lamp/p-mp000000019290079",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000019290079_437Wx649H_202309162123011.jpeg",
+      "brand": "Homesake",
+      "name": "Homesake Gold Metal Modern Antique Industrial Box-Shaped Outdoor Wall Lamp",
+      "price": "₹929",
+      "discount_price": "₹3000",
+      "discount": "69% off",
+      "rating": "3.5",
+      "reviews": "(4)"
+    },
+    {
+      "id": "346",
+      "url": "https://www.tatacliq.com/hawkins-silver-stainless-steel-3-l-induction-based-pressure-cooker--set-of-1/p-mp000000007778341",
+      "image": "https://img.tatacliq.com/images/i6/437Wx649H/MP000000007778341_437Wx649H_202009222156401.jpeg",
+      "brand": "Hawkins",
+      "name": "Hawkins Silver Stainless Steel 3 L Induction Based Pressure Cooker - Set of 1",
+      "price": "₹2799",
+      "discount_price": "₹3150",
+      "discount": "11% off",
+      "rating": "4.2",
+      "reviews": "(14)"
+    },
+    {
+      "id": "347",
+      "url": "https://www.tatacliq.com/nestasia-premium-quality-ceramic-ribbed-multipurpose-serving-pot-with-glass-lid-for-dinner-table/p-mp000000017723949",
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017723949_437Wx649H_202305272335411.jpeg",
+      "brand": "Nestasia",
+      "name": "Nestasia Premium Quality Ceramic Ribbed Multipurpose Serving Pot With Glass Lid For Dinner Table",
+      "price": "₹941",
+      "discount_price": "₹1400",
+      "discount": "33% off",
+      "rating": "3.6",
+      "reviews": "(7)"
+    },
+    {
+      "id": "348",
+      "url": "https://www.tatacliq.com/ddecor-abstract-multicolor-136-tc-cotton-double-bedsheet/p-mp000000008713760",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000008713760_437Wx649H_202308300027401.jpeg",
+      "brand": "DDecor",
+      "name": "DDecor Abstract Multicolor 136 TC Cotton Double Bedsheet",
+      "price": "₹1519",
+      "discount_price": "₹1899",
+      "discount": "20% off",
+      "rating": "4.3",
+      "reviews": "(3)"
+    },
+    {
+      "id": "349",
+      "url": "https://www.tatacliq.com/green-soul-jupiter-superb-black-foam-ergonomic-office-chair/p-mp000000017547123",
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017547091_437Wx649H_202305151205161.jpeg",
+      "brand": "Green Soul",
+      "name": "Green Soul Jupiter Superb Black Foam Ergonomic High Back Office Chair",
+      "price": "₹8199",
+      "discount_price": "₹17072",
+      "discount": "52% off",
+      "rating": "4.5",
+      "reviews": "(4)"
+    },
+    {
+      "id": "350",
+      "url": "https://www.tatacliq.com/hazel-silver-stainless-steel-multipurpose-reusable-ice-cube--set-of-2/p-mp000000021559318",
+      "image": "https://img.tatacliq.com/images/i16//437Wx649H/MP000000021559320_437Wx649H_202403151031151.jpeg",
+      "brand": "HAZEL",
+      "name": "HAZEL Silver Stainless Steel Multipurpose Reusable Ice Cube - Set of 4",
+      "price": "₹359",
+      "discount_price": "₹389",
+      "discount": "8% off",
+      "rating": "5",
+      "reviews": "(1)"
+    },
+    {
+      "id": "351",
+      "url": "https://www.tatacliq.com/ikiriya-kingston-solid-brown-wood-4-seater-dining-table-set-teak-finish/p-mp000000015325225",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015325225_437Wx649H_202211211816461.jpeg",
+      "brand": "Ikiriya",
+      "name": "Ikiriya Kingston Solid Brown Wood 4 Seater Dining Table Set Teak Finish",
+      "price": "₹19499",
+      "discount_price": "₹33000",
+      "discount": "41% off",
+      "rating": "3.9",
+      "reviews": "(9)"
+    }
+  ],
+  "wall-decor": [
+    {
+      "id": "352",
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017845566_437Wx649H_202306061838211.jpeg",
+      "price": "₹474",
+      "name": "Art Street Multicolor Engineered Wood Artistic Shri Ganesh Ji Framed Posters - Set of 2",
+      "brand": "Art Street",
+      "rating": null
+    },
+    {
+      "id": "353",
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010831420_437Wx649H_202110070442071.jpeg",
+      "price": "₹300",
+      "name": "999Store Blue & Beige MDF Wall Art Painting - Set of 1",
+      "brand": "999Store",
+      "rating": "4"
+    },
+    {
+      "id": "354",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(6)"
+    },
+    {
+      "id": "355",
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018563731_437Wx649H_202308031553051.jpeg",
+      "price": "₹1799",
+      "name": "CHRONIKLE Classic Gold Iron Wall Clock",
+      "brand": "CHRONIKLE",
+      "rating": null
+    },
+    {
+      "id": "356",
+      "image": "https://img.tatacliq.com/images/i16/437Wx649H/MP000000020924528_437Wx649H_202401260035061.jpeg",
+      "price": "₹331",
+      "name": "Art Street Black Engineered Wood Embossed Laminated Framed Wall Art Radha Krishna Art",
+      "brand": "Art Street",
+      "rating": "4"
+    },
+    {
+      "id": "357",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(1)"
+    },
+    {
+      "id": "358",
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000009510546_437Wx649H_202105072118361.jpeg",
+      "price": "₹1490",
+      "name": "999Store Multicolor Radha Krishna Art 5 Frame MDF Paintings",
+      "brand": "999Store",
+      "rating": null
+    },
+    {
+      "id": "359",
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015963532_437Wx649H_202301052028521.jpeg",
+      "price": "₹1749",
+      "name": "The Art House Abstract Multicolor Canvas Painting",
+      "brand": "The Art House",
+      "rating": "3.7"
+    },
+    {
+      "id": "360",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(49)"
+    },
+    {
+      "id": "361",
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018564051_437Wx649H_202308031600521.jpeg",
+      "price": "₹2834",
+      "name": "CHRONIKLE Round Copper Rose Gold Iron Wall Clock",
+      "brand": "CHRONIKLE",
+      "rating": null
+    },
+    {
+      "id": "362",
+      "image": "https://img.tatacliq.com/images/i18/437Wx649H/MP000000022492759_437Wx649H_202406051736211.jpeg",
+      "price": "₹1121",
+      "name": "Titan NSW0080PA02 Dark Brown Plastic Wall Clock",
+      "brand": "Titan",
+      "rating": null
+    },
+    {
+      "id": "363",
+      "image": "https://www.tatacliq.com/src/general/components/img/orange-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(1)"
+    },
+    {
+      "id": "364",
+      "image": "https://www.tatacliq.com/src/general/components/img/orange-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(3)"
+    },
+    {
+      "id": "365",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000019215708_437Wx649H_202309132203561.jpeg",
+      "price": "₹2800",
+      "name": "999Store Printed Blue Canvas Wall Art",
+      "brand": "999Store",
+      "rating": null
+    },
+    {
+      "id": "366",
+      "image": "https://img.tatacliq.com/images/i14/437Wx649H/MP000000020214342_437Wx649H_202311232117151.jpeg",
+      "price": "₹5939",
+      "name": "CHRONIKLE Brown Wood Analog Double Sided Hanging Wall Clock",
+      "brand": "CHRONIKLE",
+      "rating": "5"
+    },
+    {
+      "id": "367",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(3)"
+    },
+    {
+      "id": "368",
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000007116109_437Wx649H_20200602023828.jpeg",
+      "price": "₹1199",
+      "name": "SEJ by Nisha Gupta Multicolor Framed Analogue Wall Clocks - Set of 3",
+      "brand": "SEJ by Nisha Gupta",
+      "rating": null
+    },
+    {
+      "id": "369",
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018453229_437Wx649H_202307260442091.jpeg",
+      "price": "₹6750",
+      "name": "SEIKO elegant multicolor wood wall clock",
+      "brand": "Seiko",
+      "rating": "5"
+    },
+    {
+      "id": "370",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(1)"
+    },
+    {
+      "id": "371",
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000007110438_437Wx649H_20200601210315.jpeg",
+      "price": "₹699",
+      "name": "SEJ by Nisha Gupta Pink Framed Analogue Wall Clock - Set of 1",
+      "brand": "SEJ by Nisha Gupta",
+      "rating": null
+    },
+    {
+      "id": "372",
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000017499433_437Wx649H_202308101249561.jpeg",
+      "price": "₹949",
+      "name": "Art Street Vintage Building Multicolor Wood Framed Wall Painting - Set of 4",
+      "brand": "Art Street",
+      "rating": "4.5"
+    },
+    {
+      "id": "373",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(6)"
+    },
+    {
+      "id": "374",
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018453149_437Wx649H_202307260439351.jpeg",
+      "price": "₹12600",
+      "name": "SEIKO classic multicolor wood wall clock",
+      "brand": "Seiko",
+      "rating": null
+    },
+    {
+      "id": "375",
+      "image": "https://img.tatacliq.com/images/i13/437Wx649H/MP000000019397858_437Wx649H_202309251535381.jpeg",
+      "price": "₹3196",
+      "name": "Titan W0078MA02 Rose Gold Metal Wall Clock",
+      "brand": "Titan",
+      "rating": "3.3"
+    },
+    {
+      "id": "376",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(10)"
+    },
+    {
+      "id": "377",
+      "image": "https://www.tatacliq.com/src/general/components/img/green-filled-star.svg",
+      "price": null,
+      "name": null,
+      "brand": null,
+      "rating": "(3)"
+    },
+    {
+      "id": "378",
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008291352_437Wx649H_202207092346111.jpeg",
+      "price": "₹1065",
+      "name": "ExclusiveLane 'Wise Owls' Handmade & Hand-painted Garden Decorative Terracotta Wall Hanging",
+      "brand": "ExclusiveLane",
+      "rating": null
+    }
+  ],
+  "photo-frames": [
+    {
+      "id": "379",
+      "link": "https://www.tatacliq.com/sej-by-nisha-gupta-green-wooden-photo-frame/p-mp000000007110080",
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000007110080_437Wx649H_20200601202652.jpeg",
+      "brand": "SEJ by Nisha Gupta",
+      "name": "Green Wooden Photo Frame",
+      "price": "₹524",
+      "original_price": "₹1499",
+      "discount": "65% off",
+      "rating": null,
+      "reviews": null,
+      "nudge": "Limited stock!",
+      "additional_info": null
+    },
+    {
+      "id": "380",
+      "link": "https://www.tatacliq.com/sej-by-nisha-gupta-black-wooden-photo-frame/p-mp000000007110091",
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000007110091_437Wx649H_20200601202655.jpeg",
+      "brand": "SEJ by Nisha Gupta",
+      "name": "Black Wooden Photo Frame",
+      "price": "₹524",
+      "original_price": "₹1499",
+      "discount": "65% off",
+      "rating": null,
+      "reviews": null,
+      "nudge": "Limited stock!",
+      "additional_info": null
+    },
+    {
+      "id": "381",
+      "link": "https://www.tatacliq.com/art-street-white-engineered-wood-table-top-photo-frame/p-mp000000017843671",
+      "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017843671_437Wx649H_202306061723231.jpeg",
+      "brand": "Art Street",
+      "name": "White Engineered Wood Table Top Photo Frame",
+      "price": "₹331",
+      "original_price": "₹800",
+      "discount": "59% off",
+      "rating": "1",
+      "reviews": "Limited stock!",
+      "nudge": null,
+      "additional_info": null
+    },
+    {
+      "id": "382",
+      "link": "https://www.tatacliq.com/home4u-tresor-black-engineered-wood-photoframe/p-mp000000019739365",
+      "image": "https://img.tatacliq.com/images/i14/437Wx649H/MP000000019739365_437Wx649H_202310200535411.jpeg",
+      "brand": "Home4U",
+      "name": "Tresor Black Engineered Wood Photoframe",
+      "price": "₹1845",
+      "original_price": null,
+      "discount": null,
+      "rating": null,
+      "reviews": null,
+      "nudge": null,
+      "additional_info": null
+    },
+    {
+      "id": "383",
+      "link": "https://www.tatacliq.com/art-street-gold-engineered-wood-wedding-creative-resin-display-of-ginkgo-biloba-photo-frame/p-mp000000018596651",
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018596651_437Wx649H_202308052020541.jpeg",
+      "brand": "Art Street",
+      "name": "Gold Engineered Wood Wedding Creative Resin Display Of Ginkgo Biloba Photo Frame",
+      "price": "₹854",
+      "original_price": "₹3000",
+      "discount": "72% off",
+      "rating": null,
+      "reviews": null,
+      "nudge": null,
+      "additional_info": null
+    },
+    {
+      "id": "384",
+      "link": "https://www.tatacliq.com/home-nilkamal-gold-mdf-plexus-rectangular-photo-frame/p-mp000000020780376",
+      "image": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000020780376_437Wx649H_202401161546181.jpeg",
+      "brand": "@home",
+      "name": "Nilkamal Gold MDF Plexus Rectangular Photo Frame",
+      "price": "₹756",
+      "original_price": "₹1799",
+      "discount": "58% off",
+      "rating": null,
+      "reviews": null,
+      "nudge": null,
+      "additional_info": null
+    }
+  ],
+  "kitchen": [
+    {
+      "id": "385",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/3/0316b9cNYK_TWIGT00000023_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "495 ₹",
+      "brand": "Twig & Twine",
+      "name": "Austere Ceramic Glazed Pasta Plate",
+      "rating": "55%"
+    },
+    {
+      "id": "386",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/8/381540bCorelle-501710412_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "1,023",
+      "brand": "Corelle",
+      "name": "Livingware Winter Frost White 31cm Oval Serving Platter Pack of 1",
+      "rating": "7%"
+    },
+    {
+      "id": "387",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/0/2012f94NYFPHLV000011_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "945",
+      "brand": "Pure Home + Living",
+      "name": "Set Of 6 Placement Mats",
+      "rating": "30%"
+    },
+    {
+      "id": "388",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/2/525d3d6MPCST03_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "680 ₹",
+      "brand": "FNS",
+      "name": "Montavo By Fns Pacific Laser Engraved Stainless Steel Serving Spoons (Set of 3)",
+      "rating": "15%"
+    },
+    {
+      "id": "389",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/a/faf5c6cNF_CHUMB00001780_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "1,795 ₹",
+      "brand": "Chumbak",
+      "name": "Quirky India Steel Sipper Bottle - Blue",
+      "rating": "64%"
+    },
+    {
+      "id": "390",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/e/0e0860fS-BTSALWH01RO75-GEN22024_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "648",
+      "brand": "Indigifts",
+      "name": "Sipper Water Bottle Bee Happy Printed Aluminium 750ml",
+      "rating": "46%"
+    },
+    {
+      "id": "391",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/4/9438ab263154727_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "5,000",
+      "brand": "Wonderchef",
+      "name": "Venice Dinner (Set of 31)",
+      "rating": "44%"
+    },
+    {
+      "id": "392",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/1/d1f6d3bDSTG1059-4-L3_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "517 ₹",
+      "brand": "GoodHomes",
+      "name": "Glass Three Part Storage Bowl With Lid",
+      "rating": ""
+    },
+    {
+      "id": "393",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/c/9cdcb9cNYK_TWIGT00000018_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "175 ₹",
+      "brand": "Twig & Twine",
+      "name": "Austere Ceramic Glazed Green Mug",
+      "rating": "65%"
+    },
+    {
+      "id": "394",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/2/e27116ePL-8907895105440_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "1,050",
+      "brand": "Pure Home + Living",
+      "name": "Set of 2 Red Floral Shaped Glass Dessert Plates",
+      "rating": "30%"
+    },
+    {
+      "id": "395",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9b7ce8dNF-709_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "1,053",
+      "brand": "Vigneto",
+      "name": "Rose Garden Coffee Mugs -Set of 2, 300 ML",
+      "rating": "19%"
+    },
+    {
+      "id": "396",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/93caabeNESTA00000283_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "1,616 ₹",
+      "brand": "Nestasia",
+      "name": "Leaf Platter with Tray (Set of 5)",
+      "rating": "51%"
+    },
+    {
+      "id": "397",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/c/5cd87922000000195483_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "2,130",
+      "brand": "UMAI",
+      "name": "Stainless Steel Vacuum Insulated Water Bottle|900 ml|Beige-Grey",
+      "rating": "21%"
+    },
+    {
+      "id": "398",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/0/1027bc1CGG-TR-26-PO3_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "1,400",
+      "brand": "The Decor Mart",
+      "name": "Wooden Serving Tray (Set of 3)",
+      "rating": "60%"
+    },
+    {
+      "id": "399",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/2/b26465aMFNSXX00000082_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "4,930 ₹",
+      "brand": "FNS",
+      "name": "Cheers Cabinet Bar (Set of 14)",
+      "rating": "15%"
+    },
+    {
+      "id": "400",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/f/9f91f3fNYF_NYFELMT000168_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "3,375 ₹",
+      "brand": "Ellementry",
+      "name": "Glass Water Dispenser",
+      "rating": "10%"
+    },
+    {
+      "id": "401",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/a/da146e1MIOJ-966962004_1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "960",
+      "brand": "The Home Story",
+      "name": "Dining Table Cover Broad Cream Lace (8 Seater)",
+      "rating": "40%"
+    },
+    {
+      "id": "402",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/8/f8c5555501712058-1.jpg?rnd=20200526195200&tr=w-256",
+      "price": "14,571",
+      "brand": "Corelle",
+      "name": "Livingware Simple Lines Grey 21 Pcs Dinner Set",
+      "rating": "20%"
+    }
+  ]
+}

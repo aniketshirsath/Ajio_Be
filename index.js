@@ -3,7 +3,7 @@ const fs = require("fs");
 const cors = require("cors");
 
 const app = express();
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
@@ -15,8 +15,8 @@ app.get("/", (req, res) => {
   res.send("Ajio Backend is working!");
 });
 
-app.get("/product", (req, res) => {
-  res.send(productData.products); // ✅ FIXED: use "products"
+app.get("/men", (req, res) => {
+  res.send(productData.men); // Use "products", not "product"
 });
 
 app.listen(port, () => {
